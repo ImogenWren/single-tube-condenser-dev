@@ -3101,6 +3101,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 133.35) (xy 115.57 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55da52d9-d09b-4988-a61f-4f85564d6b24")
+	)
+	(wire
+		(pts
 			(xy 237.49 109.22) (xy 237.49 124.46)
 		)
 		(stroke
@@ -4339,6 +4349,72 @@
 			(project "single-tube-condensor-schematic"
 				(path "/e2a125e0-14c8-4df0-af1d-92094a99db9c"
 					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 115.57 133.35 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ea3fdb2-46ce-4ab1-ba65-2597c30585fa")
+		(property "Reference" "#PWR03"
+			(at 121.92 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 120.65 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 115.57 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 115.57 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed821c31-d1aa-4c71-846d-678db1d60ff3")
+		)
+		(instances
+			(project "single-tube-condensor-schematic"
+				(path "/e2a125e0-14c8-4df0-af1d-92094a99db9c"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
