@@ -8995,6 +8995,19 @@
 		)
 		(uuid "bcf95f93-3a39-49f5-82bb-fc473d74f2bc")
 	)
+	(text "FAIL SAFE:\n- Fail Safe position MUST be the SOLVENT heater"
+		(exclude_from_sim no)
+		(at 286.512 227.33 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "d3768db3-31d0-4147-a046-6aac585bf17d")
+	)
 	(text "Mode Select"
 		(exclude_from_sim no)
 		(at 197.104 20.32 0)
