@@ -542,334 +542,6 @@
 				)
 			)
 		)
-		(symbol "000_MOSFET_Immo:IRF5305_PBF"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q?"
-				(at 0 10.16 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "IRF5305_PBF"
-				(at 5.08 8.89 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-				(at 19.05 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c"
-				(at 16.51 8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "-31A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 60mOhm Ron, TO-220AB"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "JLCpart" "C2623"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "RSpart" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "supplier" "https://www.lcsc.com/product-detail/MOSFETs_Infineon-Technologies-IRF5305PBF_C2623.html"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "cost" "0.6682"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Single P-Channel HEXFET Power MOSFET"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO?220*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "IRF5305_PBF_0_1"
-				(polyline
-					(pts
-						(xy 0.254 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 1.905) (xy 0.254 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.27) (xy 0.762 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.508) (xy 0.762 -0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.286) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 1.778) (xy 3.302 1.778) (xy 3.302 -1.778) (xy 0.762 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.286 0) (xy 1.27 0.381) (xy 1.27 -0.381) (xy 2.286 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.794 -0.508) (xy 2.921 -0.381) (xy 3.683 -0.381) (xy 3.81 -0.254)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 -0.381) (xy 2.921 0.254) (xy 3.683 0.254) (xy 3.302 -0.381)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 1.651 0)
-					(radius 2.794)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 -1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.54 1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "IRF5305_PBF_1_1"
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "000_Modules_Immo:LM2596S DC-DC Module"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5463,6 +5135,301 @@
 				)
 			)
 		)
+		(symbol "Transistor_FET:IRF540N"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "IRF540N"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf540n.pdf"
+				(at 5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "HEXFET N-Channel MOSFET"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?220*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "IRF540N_0_1"
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "IRF540N_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "float-switch_1"
 			(pin_names
 				(offset 0) hide)
@@ -6489,6 +6456,12 @@
 		(uuid "1d6bee7a-23a1-458c-a0cb-4e2bdfb253d0")
 	)
 	(junction
+		(at 184.15 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "27661ecd-2f0c-46dd-80f8-594d218fc781")
+	)
+	(junction
 		(at 332.74 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6543,10 +6516,16 @@
 		(uuid "bfd4a98c-f3d5-42ca-9102-9908a58da1c7")
 	)
 	(junction
-		(at 184.15 106.68)
+		(at 184.15 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c798fadc-ab06-41eb-b018-ad243f0dec2e")
+		(uuid "da553e32-1a00-4380-b182-4dd4f07d2385")
+	)
+	(junction
+		(at 184.15 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3913723-e7f4-4564-826d-178eb40f5c8a")
 	)
 	(junction
 		(at 375.92 142.24)
@@ -6846,7 +6825,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 109.22) (xy 137.16 105.41)
+			(xy 130.81 106.68) (xy 130.81 102.87)
 		)
 		(stroke
 			(width 0)
@@ -7026,7 +7005,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 120.65) (xy 137.16 119.38)
+			(xy 130.81 118.11) (xy 130.81 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7136,7 +7115,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 114.3) (xy 129.54 114.3)
+			(xy 120.65 111.76) (xy 123.19 111.76)
 		)
 		(stroke
 			(width 0)
@@ -7166,7 +7145,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 105.41) (xy 137.16 105.41)
+			(xy 129.54 102.87) (xy 130.81 102.87)
 		)
 		(stroke
 			(width 0)
@@ -7203,6 +7182,16 @@
 			(type default)
 		)
 		(uuid "2a4d8446-abb5-48b5-bc5f-82d92c3358b9")
+	)
+	(wire
+		(pts
+			(xy 182.88 100.33) (xy 184.15 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d59ebc0-28da-4feb-aba8-b83dacf46d7d")
 	)
 	(wire
 		(pts
@@ -7326,13 +7315,13 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 106.68) (xy 184.15 100.33)
+			(xy 184.15 85.09) (xy 184.15 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3af46503-eeb5-405e-869f-4b27293c53e3")
+		(uuid "3c0f0bd8-6410-4adb-953f-760277822a3b")
 	)
 	(wire
 		(pts
@@ -7436,16 +7425,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 114.3) (xy 184.15 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4699beae-29e9-4a3e-bafb-aecce47f94a0")
-	)
-	(wire
-		(pts
 			(xy 327.66 121.92) (xy 327.66 137.16)
 		)
 		(stroke
@@ -7506,16 +7485,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 95.25) (xy 184.15 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e3a8af2-5e4d-4435-b637-f9096b998c02")
-	)
-	(wire
-		(pts
 			(xy 273.05 265.43) (xy 273.05 267.97)
 		)
 		(stroke
@@ -7566,7 +7535,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 100.33) (xy 135.89 100.33)
+			(xy 130.81 97.79) (xy 129.54 97.79)
 		)
 		(stroke
 			(width 0)
@@ -8006,7 +7975,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 95.25) (xy 137.16 100.33)
+			(xy 130.81 92.71) (xy 130.81 97.79)
 		)
 		(stroke
 			(width 0)
@@ -8156,7 +8125,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 106.68) (xy 184.15 106.68)
+			(xy 176.53 111.76) (xy 184.15 111.76)
 		)
 		(stroke
 			(width 0)
@@ -8293,16 +8262,6 @@
 			(type default)
 		)
 		(uuid "ba7dfc15-88f4-4282-8ed9-aaed525866f9")
-	)
-	(wire
-		(pts
-			(xy 184.15 119.38) (xy 186.69 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba81ad99-be20-49d8-a44f-6f8a1b9f3dd6")
 	)
 	(bus
 		(pts
@@ -8576,16 +8535,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 106.68) (xy 184.15 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d51433fd-0a70-4966-be53-6dc2350a26ed")
-	)
-	(wire
-		(pts
 			(xy 125.73 259.08) (xy 130.81 259.08)
 		)
 		(stroke
@@ -8683,6 +8632,26 @@
 			(type default)
 		)
 		(uuid "df947620-873f-44dc-bba1-f3753f6f66d0")
+	)
+	(wire
+		(pts
+			(xy 182.88 95.25) (xy 184.15 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e05dc89c-6bc3-4b33-ad12-9635ca8323a3")
+	)
+	(wire
+		(pts
+			(xy 184.15 100.33) (xy 184.15 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e15edd86-cb82-49a5-a677-526feb28d47f")
 	)
 	(wire
 		(pts
@@ -8813,6 +8782,16 @@
 			(type default)
 		)
 		(uuid "f3f31c17-823e-4c30-8f39-c92f6571ab4a")
+	)
+	(wire
+		(pts
+			(xy 184.15 111.76) (xy 184.15 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f41963bc-c7db-452a-8dd4-007fc8ba86f9")
 	)
 	(wire
 		(pts
@@ -8950,16 +8929,6 @@
 		)
 		(uuid "50600a64-cdd7-49c4-b8ef-00763c35a9d4")
 	)
-	(text "TEST ALL OF THIS TOMORROW"
-		(exclude_from_sim no)
-		(at 160.782 94.742 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "5f0ce26a-75ab-4f8f-94d0-d77461b0bee0")
-	)
 	(text "Fluid Level Interlock"
 		(exclude_from_sim no)
 		(at 281.432 24.892 0)
@@ -8982,6 +8951,17 @@
 			(justify left)
 		)
 		(uuid "86a9f32b-d593-4849-b351-f7cf93ddf5fd")
+	)
+	(text "Solvent heater is always submerged in typical operation\nH2O heater is exposed during solvent operation"
+		(exclude_from_sim no)
+		(at 294.386 233.426 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left top)
+		)
+		(uuid "a9a5c13d-fbf8-4113-b735-f60a67e30e69")
 	)
 	(text "Thermocouples"
 		(exclude_from_sim no)
@@ -9232,7 +9212,7 @@
 	)
 	(global_label "ON_AIR_CTRL"
 		(shape input)
-		(at 127 114.3 180)
+		(at 120.65 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9242,7 +9222,7 @@
 		)
 		(uuid "2383a8f2-b69a-4949-a77b-11409ff25564")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.9195 114.3 0)
+			(at 105.5695 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9298,7 +9278,7 @@
 	)
 	(global_label "MODE_LIGHT_CTRL"
 		(shape input)
-		(at 177.8 106.68 180)
+		(at 176.53 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9308,7 +9288,7 @@
 		)
 		(uuid "3de790b1-2dc8-4dcb-a73c-77aa91c66258")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.942 106.68 0)
+			(at 156.672 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9821,7 +9801,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 120.65 0)
+		(at 130.81 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9829,7 +9809,7 @@
 		(dnp no)
 		(uuid "16a849dd-c65b-43d4-a3f6-2f9763294f58")
 		(property "Reference" "#PWR025"
-			(at 137.16 127 0)
+			(at 130.81 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9838,7 +9818,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 124.46 0)
+			(at 130.81 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9846,7 +9826,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 120.65 0)
+			(at 130.81 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9855,7 +9835,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 120.65 0)
+			(at 130.81 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9864,7 +9844,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 120.65 0)
+			(at 130.81 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11314,118 +11294,6 @@
 		)
 	)
 	(symbol
-		(lib_id "000_MOSFET_Immo:IRF5305_PBF")
-		(at 134.62 114.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5bed976d-19a8-4c58-a604-d05ea33ef99c")
-		(property "Reference" "Q1"
-			(at 140.97 113.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRF5305_PBF"
-			(at 140.97 115.5699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 153.67 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c"
-			(at 151.13 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "-31A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 60mOhm Ron, TO-220AB"
-			(at 134.62 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCpart" "C2623"
-			(at 134.62 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RSpart" ""
-			(at 134.62 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "supplier" "https://www.lcsc.com/product-detail/MOSFETs_Infineon-Technologies-IRF5305PBF_C2623.html"
-			(at 134.62 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "cost" "0.6682"
-			(at 134.62 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d864580e-41bc-4f64-858a-2fe7c1727f17")
-		)
-		(pin "3"
-			(uuid "2a0a8401-2dd5-44e1-b9de-7080c308a2b3")
-		)
-		(pin "2"
-			(uuid "a50ab334-dad6-467c-aa56-b16409bb7f43")
-		)
-		(instances
-			(project "single-tube-condensor-schematic"
-				(path "/e2a125e0-14c8-4df0-af1d-92094a99db9c"
-					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+24V")
 		(at 148.59 35.56 0)
 		(unit 1)
@@ -12017,7 +11885,7 @@
 	)
 	(symbol
 		(lib_id "004_Industrial_Automation_ADAM:LED-panel-red")
-		(at 127 102.87 0)
+		(at 120.65 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12026,7 +11894,7 @@
 		(fields_autoplaced yes)
 		(uuid "81639e31-6666-4ee7-b221-94768409d9e7")
 		(property "Reference" "D4"
-			(at 128.27 92.71 0)
+			(at 121.92 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12034,7 +11902,7 @@
 			)
 		)
 		(property "Value" "On Air"
-			(at 128.27 95.25 0)
+			(at 121.92 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12042,7 +11910,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 102.87 90)
+			(at 120.65 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12051,7 +11919,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 102.87 90)
+			(at 120.65 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12060,7 +11928,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 141.224 103.886 0)
+			(at 134.874 101.346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12085,7 +11953,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 137.16 95.25 0)
+		(at 130.81 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12093,7 +11961,7 @@
 		(dnp no)
 		(uuid "8348418b-c4e8-4572-9a8a-d5a61fb239f0")
 		(property "Reference" "#PWR024"
-			(at 137.16 99.06 0)
+			(at 130.81 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12102,7 +11970,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 136.906 91.186 0)
+			(at 130.556 88.646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12110,7 +11978,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 95.25 0)
+			(at 130.81 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12119,7 +11987,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 95.25 0)
+			(at 130.81 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12128,7 +11996,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 137.16 95.25 0)
+			(at 130.81 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12643,8 +12511,8 @@
 	)
 	(symbol
 		(lib_id "004_Industrial_Automation_ADAM:LED-panel-blue")
-		(at 195.58 116.84 0)
-		(mirror y)
+		(at 173.99 97.79 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12652,7 +12520,7 @@
 		(dnp no)
 		(uuid "a25e70bd-70d7-4a2c-a54e-ed5ee3ed87f3")
 		(property "Reference" "D2"
-			(at 190.754 108.458 0)
+			(at 178.816 106.172 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12660,7 +12528,7 @@
 			)
 		)
 		(property "Value" "H2O Mode Indicator"
-			(at 199.136 110.744 0)
+			(at 170.434 103.886 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12668,7 +12536,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 116.84 90)
+			(at 173.99 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12677,7 +12545,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 116.84 90)
+			(at 173.99 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12686,7 +12554,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 181.356 117.856 0)
+			(at 188.214 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13517,6 +13385,82 @@
 			(project "single-tube-condensor-schematic"
 				(path "/e2a125e0-14c8-4df0-af1d-92094a99db9c"
 					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:IRF540N")
+		(at 128.27 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da2c76d2-3484-4b1c-84de-f3adc5a3db00")
+		(property "Reference" "Q1"
+			(at 134.62 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRF540N"
+			(at 134.62 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+			(at 133.35 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf540n.pdf"
+			(at 133.35 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "33A Id, 100V Vds, HEXFET N-Channel MOSFET, TO-220"
+			(at 128.27 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ac7991e8-f884-41e3-83d8-4c75462b0b25")
+		)
+		(pin "3"
+			(uuid "3cb9ea0c-04e5-49a4-956d-70e7845d7a4c")
+		)
+		(pin "1"
+			(uuid "f0e259a2-c3aa-4853-baa0-a42cbaccf98e")
+		)
+		(instances
+			(project "single-tube-condensor-schematic"
+				(path "/e2a125e0-14c8-4df0-af1d-92094a99db9c"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
