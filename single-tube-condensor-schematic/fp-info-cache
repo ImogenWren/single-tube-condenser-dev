@@ -1,4 +1,4 @@
-23293499700744832
+23300340738258982
 000-edge-connectors-immo
 1-pin-edge-touch-xl
 PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
@@ -56,11 +56,39 @@ PCIe
 36
 36
 000-industrial
+DIN-RAIL-100mm
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
+0
+0
+0
+000-industrial
 KSIM380D16-L-solid-state-relay
 4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
 SO SOIC 2.54
 0
 4
+4
+000-industrial
+adam-6xxx
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
+0
+0
+0
+000-industrial
+d-link-5-port-switch
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
+0
+7
+7
+000-industrial
+keyswitch-3-way-168-2550
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
+0
+6
 4
 000-industrial
 relay-DPDT-finder-623-7157
