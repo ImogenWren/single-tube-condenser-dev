@@ -11766,7 +11766,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5803272a-1e03-47a8-987a-64c1a1f1bf9d")
-		(property "Reference" "K?"
+		(property "Reference" "K4"
 			(at 268.986 108.966 0)
 			(effects
 				(font
@@ -11837,7 +11837,7 @@
 		(instances
 			(project "single-tube-condensor-schematic"
 				(path "/e2a125e0-14c8-4df0-af1d-92094a99db9c"
-					(reference "K?")
+					(reference "K4")
 					(unit 1)
 				)
 			)
@@ -12851,7 +12851,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "924ce6a3-950d-4bb8-8421-cdd68239509b")
-		(property "Reference" "K?"
+		(property "Reference" "K5"
 			(at 267.716 41.91 0)
 			(effects
 				(font
@@ -12922,7 +12922,7 @@
 		(instances
 			(project "single-tube-condensor-schematic"
 				(path "/e2a125e0-14c8-4df0-af1d-92094a99db9c"
-					(reference "K?")
+					(reference "K5")
 					(unit 1)
 				)
 			)
