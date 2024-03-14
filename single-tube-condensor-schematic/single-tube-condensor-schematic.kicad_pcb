@@ -2585,7 +2585,7 @@
 	(footprint "000-industrial:schneider-3phase-16-breaker"
 		(layer "F.Cu")
 		(uuid "56c9aacc-fd47-4285-999b-fe2769ad25ec")
-		(at 273.05 29.845)
+		(at 281.305 180.975)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "CB1"
@@ -3691,7 +3691,7 @@
 	(footprint "000-industrial:raspberry-pi"
 		(layer "F.Cu")
 		(uuid "71b6450e-502a-480d-9284-bbe2ee0ff5df")
-		(at 504.825 60.96)
+		(at 45.212 93.599)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "A3"
@@ -4927,7 +4927,7 @@
 	(footprint "000-industrial:d-link-5-port-switch"
 		(layer "F.Cu")
 		(uuid "8274691f-df04-4af1-b4a1-07f8cf153ce1")
-		(at 30.48 210.185)
+		(at 30.48 228.6)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "A4"
@@ -5729,11 +5729,11 @@
 			(layer "User.1")
 			(uuid "2e32169b-7590-4b72-9e1a-51d219f291f7")
 			(pts
-				(xy 15.875 161.925) (xy 116.84 161.925)
+				(xy 15.875 180.34) (xy 116.84 180.34)
 			)
 			(height -6.985)
 			(gr_text "100.9650 mm"
-				(at 66.3575 153.79 0)
+				(at 66.3575 172.205 0)
 				(layer "User.1")
 				(uuid "2e32169b-7590-4b72-9e1a-51d219f291f7")
 				(effects
@@ -5762,11 +5762,11 @@
 			(layer "User.1")
 			(uuid "7eabfbef-5dea-4b72-ba56-e5850e4b7028")
 			(pts
-				(xy 15.875 161.925) (xy 15.875 260.35)
+				(xy 15.875 180.34) (xy 15.875 278.765)
 			)
 			(height 14.605)
 			(gr_text "98.4250 mm"
-				(at 0.12 211.1375 90)
+				(at 0.12 229.5525 90)
 				(layer "User.1")
 				(uuid "7eabfbef-5dea-4b72-ba56-e5850e4b7028")
 				(effects
@@ -5882,7 +5882,7 @@
 	(footprint "000-industrial:keyswitch-3-way-168-2550"
 		(layer "F.Cu")
 		(uuid "829037a7-db0b-4d6b-b964-5367e96e7ca1")
-		(at 49.3625 93.98)
+		(at 138.43 259.715)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "SW1"
@@ -6114,11 +6114,11 @@
 			(layer "User.1")
 			(uuid "841f2f20-cb21-4db7-a42d-76b0959f979b")
 			(pts
-				(xy 34.1225 73.025) (xy 64.6025 73.025)
+				(xy 123.19 238.76) (xy 153.67 238.76)
 			)
 			(height -5.08)
 			(gr_text "30.4800 mm"
-				(at 49.3625 66.795 0)
+				(at 138.43 232.53 0)
 				(layer "User.1")
 				(uuid "841f2f20-cb21-4db7-a42d-76b0959f979b")
 				(effects
@@ -6147,11 +6147,11 @@
 			(layer "User.1")
 			(uuid "99b9bd44-51c6-4e40-81a5-60435a924011")
 			(pts
-				(xy 34.1225 73.025) (xy 34.1225 114.935)
+				(xy 123.19 238.76) (xy 123.19 280.67)
 			)
 			(height 14.605)
 			(gr_text "41.9100 mm"
-				(at 18.3675 93.98 90)
+				(at 107.435 259.715 90)
 				(layer "User.1")
 				(uuid "99b9bd44-51c6-4e40-81a5-60435a924011")
 				(effects
@@ -6180,11 +6180,11 @@
 			(layer "User.1")
 			(uuid "b3cc9658-0c83-4263-964a-92b31dc0ed5a")
 			(pts
-				(xy 35.0115 93.98) (xy 63.8405 93.98)
+				(xy 124.079 259.715) (xy 152.908 259.715)
 			)
 			(height 0)
 			(gr_text "28.8290 mm"
-				(at 49.426 92.83 0)
+				(at 138.4935 258.565 0)
 				(layer "User.1")
 				(uuid "b3cc9658-0c83-4263-964a-92b31dc0ed5a")
 				(effects
@@ -6656,7 +6656,7 @@
 	(footprint "000-industrial:keyswitch-3-way-168-2550"
 		(layer "F.Cu")
 		(uuid "bd149550-26f5-49df-9ddb-b35f123ed551")
-		(at 91.44 109.22)
+		(at 175.895 259.715)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "SW3"
@@ -6888,11 +6888,11 @@
 			(layer "User.1")
 			(uuid "22159f76-a0ea-4eac-a665-0b45f7d628f5")
 			(pts
-				(xy 76.2 88.265) (xy 76.2 130.175)
+				(xy 160.655 238.76) (xy 160.655 280.67)
 			)
 			(height 14.605)
 			(gr_text "41.9100 mm"
-				(at 60.445 109.22 90)
+				(at 144.9 259.715 90)
 				(layer "User.1")
 				(uuid "22159f76-a0ea-4eac-a665-0b45f7d628f5")
 				(effects
@@ -6921,11 +6921,11 @@
 			(layer "User.1")
 			(uuid "785247f7-fb85-45db-b1a1-4736ddfbcf61")
 			(pts
-				(xy 76.2 88.265) (xy 106.68 88.265)
+				(xy 160.655 238.76) (xy 191.135 238.76)
 			)
 			(height -5.08)
 			(gr_text "30.4800 mm"
-				(at 91.44 82.035 0)
+				(at 175.895 232.53 0)
 				(layer "User.1")
 				(uuid "785247f7-fb85-45db-b1a1-4736ddfbcf61")
 				(effects
@@ -6954,11 +6954,11 @@
 			(layer "User.1")
 			(uuid "e1b83a7b-b615-4c0d-87da-0767492b7dbb")
 			(pts
-				(xy 77.089 109.22) (xy 105.918 109.22)
+				(xy 161.544 259.715) (xy 190.373 259.715)
 			)
 			(height 0)
 			(gr_text "28.8290 mm"
-				(at 91.5035 108.07 0)
+				(at 175.9585 258.565 0)
 				(layer "User.1")
 				(uuid "e1b83a7b-b615-4c0d-87da-0767492b7dbb")
 				(effects
@@ -7063,7 +7063,7 @@
 	(footprint "000-industrial:DIN-RAIL-100mm"
 		(layer "F.Cu")
 		(uuid "c7e08837-b4ee-4e9b-9fe2-f2c58ab0698c")
-		(at 267.97 223.52)
+		(at 246.888 262.89)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "DRA1"
@@ -7380,11 +7380,11 @@
 			(layer "User.1")
 			(uuid "06466813-31bf-468c-84c1-7fdff9c8f8df")
 			(pts
-				(xy 289.2044 217.349246) (xy 296.2148 217.349246)
+				(xy 268.1224 256.719246) (xy 275.1328 256.719246)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 292.7096 214.1912 0)
+				(at 271.6276 253.5612 0)
 				(layer "User.1")
 				(uuid "06466813-31bf-468c-84c1-7fdff9c8f8df")
 				(effects
@@ -7413,11 +7413,11 @@
 			(layer "User.1")
 			(uuid "12d5dcd1-9a41-41f6-8f4d-2b496e858315")
 			(pts
-				(xy 217.805 206.375) (xy 318.135 206.375)
+				(xy 196.723 245.745) (xy 297.053 245.745)
 			)
 			(height -6.985)
 			(gr_text "100.3300 mm"
-				(at 267.97 198.24 0)
+				(at 246.888 237.61 0)
 				(layer "User.1")
 				(uuid "12d5dcd1-9a41-41f6-8f4d-2b496e858315")
 				(effects
@@ -7446,11 +7446,11 @@
 			(layer "User.1")
 			(uuid "258096f3-2237-4180-8519-c10edee448e2")
 			(pts
-				(xy 264.2616 218.1352) (xy 271.272 218.1352)
+				(xy 243.1796 257.5052) (xy 250.19 257.5052)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 267.7668 214.977154 0)
+				(at 246.6848 254.347154 0)
 				(layer "User.1")
 				(uuid "258096f3-2237-4180-8519-c10edee448e2")
 				(effects
@@ -7479,11 +7479,11 @@
 			(layer "User.1")
 			(uuid "320fd632-ac44-4da8-83fe-d120e4b8b116")
 			(pts
-				(xy 217.805 211.1375) (xy 217.805 235.9025)
+				(xy 196.723 250.5075) (xy 196.723 275.2725)
 			)
 			(height 5.910859)
 			(gr_text "24.7650 mm"
-				(at 210.744141 223.52 90)
+				(at 189.662141 262.89 90)
 				(layer "User.1")
 				(uuid "320fd632-ac44-4da8-83fe-d120e4b8b116")
 				(effects
@@ -7512,11 +7512,11 @@
 			(layer "User.1")
 			(uuid "61b99c40-2993-4309-a4f1-9bb474d144b7")
 			(pts
-				(xy 239.3696 217.704846) (xy 246.38 217.704846)
+				(xy 218.2876 257.074846) (xy 225.298 257.074846)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 242.8748 214.5468 0)
+				(at 221.7928 253.9168 0)
 				(layer "User.1")
 				(uuid "61b99c40-2993-4309-a4f1-9bb474d144b7")
 				(effects
@@ -7545,11 +7545,11 @@
 			(layer "User.1")
 			(uuid "b1c8631a-5294-4329-b151-9dfd3c6e39b5")
 			(pts
-				(xy 217.805 205.74) (xy 217.805 241.3)
+				(xy 196.723 245.11) (xy 196.723 280.67)
 			)
 			(height 14.660113)
 			(gr_text "35.5600 mm"
-				(at 201.994887 223.52 90)
+				(at 180.912887 262.89 90)
 				(layer "User.1")
 				(uuid "b1c8631a-5294-4329-b151-9dfd3c6e39b5")
 				(effects
@@ -7578,11 +7578,11 @@
 			(layer "User.1")
 			(uuid "cd2e43c1-5123-4a5e-a37a-2ff283de5167")
 			(pts
-				(xy 221.4626 217.704846) (xy 239.3696 217.704846)
+				(xy 200.3806 257.074846) (xy 218.2876 257.074846)
 			)
 			(height -2.008046)
 			(gr_text "17.9070 mm"
-				(at 230.4161 214.5468 0)
+				(at 209.3341 253.9168 0)
 				(layer "User.1")
 				(uuid "cd2e43c1-5123-4a5e-a37a-2ff283de5167")
 				(effects
@@ -7611,11 +7611,11 @@
 			(layer "User.1")
 			(uuid "edc66a6a-8bd7-4b35-ab99-2568647ff576")
 			(pts
-				(xy 217.8304 217.704846) (xy 221.4626 217.704846)
+				(xy 196.7484 257.074846) (xy 200.3806 257.074846)
 			)
 			(height -2.008046)
 			(gr_text "3.6322 mm"
-				(at 219.6465 214.5468 0)
+				(at 198.5645 253.9168 0)
 				(layer "User.1")
 				(uuid "edc66a6a-8bd7-4b35-ab99-2568647ff576")
 				(effects
