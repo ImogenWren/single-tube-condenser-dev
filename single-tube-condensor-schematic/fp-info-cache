@@ -1,4 +1,4 @@
-23300340738258982
+23305472272277051
 000-edge-connectors-immo
 1-pin-edge-touch-xl
 PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
@@ -91,6 +91,20 @@ SO SOIC 2.54
 6
 4
 000-industrial
+led-panel-mount-indicator
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+000-industrial
+raspberry-pi
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
+0
+0
+0
+000-industrial
 relay-DPDT-finder-623-7157
 Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
 Omron G6K-2G-Y relay
@@ -104,6 +118,13 @@ Omron G6K-2G-Y relay
 0
 6
 5
+000-industrial
+schneider-3phase-16-breaker
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
+0
+0
+0
 000-jumpers-immo
 SolderJumper-3-open-high-power
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
