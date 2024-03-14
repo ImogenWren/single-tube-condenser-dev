@@ -3747,7 +3747,7 @@
 					)
 				)
 			)
-			(property "Footprint" "000-industrial:adam-6xxx"
+			(property "Footprint" "000-industrial:raspberry-pi"
 				(at 13.97 -6.35 0)
 				(effects
 					(font
@@ -5104,7 +5104,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "000-industrial:24v-30W-psu-DIN-rail"
 				(at 16.51 13.97 0)
 				(effects
 					(font
@@ -11039,7 +11039,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "000-industrial:24v-30W-psu-DIN-rail"
 			(at 209.55 278.13 0)
 			(effects
 				(font
@@ -14422,7 +14422,7 @@
 				)
 			)
 		)
-		(property "Footprint" "000-industrial:adam-6xxx"
+		(property "Footprint" "000-industrial:raspberry-pi"
 			(at 151.13 223.52 0)
 			(effects
 				(font

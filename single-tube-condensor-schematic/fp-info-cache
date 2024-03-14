@@ -1,4 +1,4 @@
-23305472272277051
+23307183272370071
 000-edge-connectors-immo
 1-pin-edge-touch-xl
 PCIexpress Bus Edge Connector x1 http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=70
@@ -55,6 +55,13 @@ PCIe
 0
 36
 36
+000-industrial
+24v-30W-psu-DIN-rail
+4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
+SO SOIC 2.54
+0
+0
+0
 000-industrial
 DIN-RAIL-100mm
 4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN
