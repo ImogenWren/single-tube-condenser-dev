@@ -19068,11 +19068,11 @@
 		(layer "F.Fab")
 		(uuid "deb9ec06-ff92-44e6-bac9-5ca23449c58c")
 		(pts
-			(xy 12.065 12.065) (xy 191.77 12.065)
+			(xy 12.065 12.065) (xy 279.273 12.065)
 		)
 		(height -34.925)
-		(gr_text "179.7050 mm"
-			(at 101.9175 -24.01 0)
+		(gr_text "267.2080 mm"
+			(at 145.669 -24.01 0)
 			(layer "F.Fab")
 			(uuid "deb9ec06-ff92-44e6-bac9-5ca23449c58c")
 			(effects
