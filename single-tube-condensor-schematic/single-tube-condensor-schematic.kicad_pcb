@@ -194,7 +194,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "0491866e-0848-400e-aead-b234eb7d0069")
-		(at 113.538 398.018)
+		(at 147.574 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J24"
@@ -327,11 +327,11 @@
 			(layer "User.1")
 			(uuid "218c696e-7d9b-445e-91a8-ec0f497bed92")
 			(pts
-				(xy 110.49 368.173) (xy 116.586 368.173)
+				(xy 144.526 380.492) (xy 150.622 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 113.538 354.887355 0)
+				(at 147.574 367.206355 0)
 				(layer "User.1")
 				(uuid "218c696e-7d9b-445e-91a8-ec0f497bed92")
 				(effects
@@ -388,7 +388,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "05137a19-a759-4bee-a77f-ac0db14bfae4")
-		(at 106.68 276.86)
+		(at 112.776 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J8"
@@ -521,11 +521,11 @@
 			(layer "User.1")
 			(uuid "6c7b3b6b-910b-430c-85ce-6ad0f60abcf9")
 			(pts
-				(xy 103.632 247.015) (xy 109.728 247.015)
+				(xy 109.728 256.9845) (xy 115.824 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 106.68 233.729355 0)
+				(at 112.776 243.698855 0)
 				(layer "User.1")
 				(uuid "6c7b3b6b-910b-430c-85ce-6ad0f60abcf9")
 				(effects
@@ -582,7 +582,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "077f3c04-b1c9-4018-800f-24ba702fda0f")
-		(at 88.392 398.018)
+		(at 122.428 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J22"
@@ -715,11 +715,11 @@
 			(layer "User.1")
 			(uuid "69300246-ddb6-4e2b-98b8-d815c80318b3")
 			(pts
-				(xy 85.344 368.173) (xy 91.44 368.173)
+				(xy 119.38 380.492) (xy 125.476 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 88.392 354.887355 0)
+				(at 122.428 367.206355 0)
 				(layer "User.1")
 				(uuid "69300246-ddb6-4e2b-98b8-d815c80318b3")
 				(effects
@@ -776,7 +776,7 @@
 	(footprint "000-industrial:KSIM380D16-L-solid-state-relay"
 		(layer "F.Cu")
 		(uuid "09040c8d-08f9-44ed-b899-3506ea07ca28")
-		(at 232.283 420.878)
+		(at 294.132 426.72)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "U6"
@@ -980,11 +980,11 @@
 			(layer "User.1")
 			(uuid "201e9de0-bc0d-4860-94a8-0df1cf62d456")
 			(pts
-				(xy 217.043 412.623) (xy 217.043 450.723)
+				(xy 278.892 418.465) (xy 278.892 456.565)
 			)
 			(height 0)
 			(gr_text "38.1000 mm"
-				(at 215.893 431.673 90)
+				(at 277.742 437.515 90)
 				(layer "User.1")
 				(uuid "201e9de0-bc0d-4860-94a8-0df1cf62d456")
 				(effects
@@ -1013,11 +1013,11 @@
 			(layer "User.1")
 			(uuid "6d7abc09-b82d-4489-b8ae-792ad86d4ddc")
 			(pts
-				(xy 232.283 415.798) (xy 232.283 446.913)
+				(xy 294.132 421.64) (xy 294.132 452.755)
 			)
 			(height 0)
 			(gr_text "31.1150 mm"
-				(at 231.133 431.3555 90)
+				(at 292.982 437.1975 90)
 				(layer "User.1")
 				(uuid "6d7abc09-b82d-4489-b8ae-792ad86d4ddc")
 				(effects
@@ -1046,11 +1046,11 @@
 			(layer "User.1")
 			(uuid "c0da425f-3e89-4dc9-8a14-f4082a78fa10")
 			(pts
-				(xy 218.313 412.623) (xy 246.5705 412.623)
+				(xy 280.162 418.465) (xy 308.4195 418.465)
 			)
 			(height -4.445)
 			(gr_text "28.2575 mm"
-				(at 232.44175 407.028 0)
+				(at 294.29075 412.87 0)
 				(layer "User.1")
 				(uuid "c0da425f-3e89-4dc9-8a14-f4082a78fa10")
 				(effects
@@ -1143,7 +1143,7 @@
 	(footprint "000-industrial:DIN-RAIL-100mm"
 		(layer "F.Cu")
 		(uuid "1f3749dd-5a6f-4a0c-abbf-fdd61486a8c7")
-		(at 209.423 276.225)
+		(at 213.233 285.8135)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "DRA3"
@@ -1460,11 +1460,11 @@
 			(layer "User.1")
 			(uuid "3aca736c-ed01-49a0-ae11-17e8913b4930")
 			(pts
-				(xy 162.9156 270.409846) (xy 180.8226 270.409846)
+				(xy 166.7256 279.998346) (xy 184.6326 279.998346)
 			)
 			(height -2.008046)
 			(gr_text "17.9070 mm"
-				(at 171.8691 267.2518 0)
+				(at 175.6791 276.8403 0)
 				(layer "User.1")
 				(uuid "3aca736c-ed01-49a0-ae11-17e8913b4930")
 				(effects
@@ -1493,11 +1493,11 @@
 			(layer "User.1")
 			(uuid "8b26f0e3-77cb-42fd-b03f-4d3dcdfa21cf")
 			(pts
-				(xy 230.6574 270.054246) (xy 237.6678 270.054246)
+				(xy 234.4674 279.642746) (xy 241.4778 279.642746)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 234.1626 266.8962 0)
+				(at 237.9726 276.4847 0)
 				(layer "User.1")
 				(uuid "8b26f0e3-77cb-42fd-b03f-4d3dcdfa21cf")
 				(effects
@@ -1526,11 +1526,11 @@
 			(layer "User.1")
 			(uuid "9cdba659-ba1d-44dd-a35e-f135c1c0f58f")
 			(pts
-				(xy 205.7146 270.8402) (xy 212.725 270.8402)
+				(xy 209.5246 280.4287) (xy 216.535 280.4287)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 209.2198 267.682154 0)
+				(at 213.0298 277.270654 0)
 				(layer "User.1")
 				(uuid "9cdba659-ba1d-44dd-a35e-f135c1c0f58f")
 				(effects
@@ -1559,11 +1559,11 @@
 			(layer "User.1")
 			(uuid "b912a57c-01ac-4a40-91c3-984a334d436e")
 			(pts
-				(xy 159.2834 270.409846) (xy 162.9156 270.409846)
+				(xy 163.0934 279.998346) (xy 166.7256 279.998346)
 			)
 			(height -2.008046)
 			(gr_text "3.6322 mm"
-				(at 161.0995 267.2518 0)
+				(at 164.9095 276.8403 0)
 				(layer "User.1")
 				(uuid "b912a57c-01ac-4a40-91c3-984a334d436e")
 				(effects
@@ -1592,11 +1592,11 @@
 			(layer "User.1")
 			(uuid "ce4b6ede-1d50-49d8-9a4c-b133950e4a20")
 			(pts
-				(xy 159.258 258.445) (xy 159.258 294.005)
+				(xy 163.068 268.0335) (xy 163.068 303.5935)
 			)
 			(height 14.660113)
 			(gr_text "35.5600 mm"
-				(at 143.447887 276.225 90)
+				(at 147.257887 285.8135 90)
 				(layer "User.1")
 				(uuid "ce4b6ede-1d50-49d8-9a4c-b133950e4a20")
 				(effects
@@ -1625,11 +1625,11 @@
 			(layer "User.1")
 			(uuid "d000f55c-e377-4fc1-964c-ef87a82ce19e")
 			(pts
-				(xy 159.258 263.8425) (xy 159.258 288.6075)
+				(xy 163.068 273.431) (xy 163.068 298.196)
 			)
 			(height 5.910859)
 			(gr_text "24.7650 mm"
-				(at 152.197141 276.225 90)
+				(at 156.007141 285.8135 90)
 				(layer "User.1")
 				(uuid "d000f55c-e377-4fc1-964c-ef87a82ce19e")
 				(effects
@@ -1658,11 +1658,11 @@
 			(layer "User.1")
 			(uuid "d886be57-9ebf-4015-807f-c74bdf4b5208")
 			(pts
-				(xy 159.258 259.08) (xy 259.588 259.08)
+				(xy 163.068 268.6685) (xy 263.398 268.6685)
 			)
 			(height -6.985)
 			(gr_text "100.3300 mm"
-				(at 209.423 250.945 0)
+				(at 213.233 260.5335 0)
 				(layer "User.1")
 				(uuid "d886be57-9ebf-4015-807f-c74bdf4b5208")
 				(effects
@@ -1691,11 +1691,11 @@
 			(layer "User.1")
 			(uuid "eeafae19-48d6-489d-bdf0-bf9688bfe240")
 			(pts
-				(xy 180.8226 270.409846) (xy 187.833 270.409846)
+				(xy 184.6326 279.998346) (xy 191.643 279.998346)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 184.3278 267.2518 0)
+				(at 188.1378 276.8403 0)
 				(layer "User.1")
 				(uuid "eeafae19-48d6-489d-bdf0-bf9688bfe240")
 				(effects
@@ -1762,7 +1762,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "25b89210-363e-4cea-9eff-a115265e67d1")
-		(at 126.238 398.018)
+		(at 160.274 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J26"
@@ -1895,11 +1895,11 @@
 			(layer "User.1")
 			(uuid "ea8702b8-505a-4b4b-94eb-6e70354527b5")
 			(pts
-				(xy 123.19 368.173) (xy 129.286 368.173)
+				(xy 157.226 380.492) (xy 163.322 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 126.238 354.887355 0)
+				(at 160.274 367.206355 0)
 				(layer "User.1")
 				(uuid "ea8702b8-505a-4b4b-94eb-6e70354527b5")
 				(effects
@@ -1956,7 +1956,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "25f5b030-ef68-4a8d-896c-d5d7856bb9c2")
-		(at 132.461 398.018)
+		(at 166.497 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J27"
@@ -2089,11 +2089,11 @@
 			(layer "User.1")
 			(uuid "41a8a19a-1936-4332-a99e-a3a1aad7de5d")
 			(pts
-				(xy 129.413 368.173) (xy 135.509 368.173)
+				(xy 163.449 380.492) (xy 169.545 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 132.461 354.887355 0)
+				(at 166.497 367.206355 0)
 				(layer "User.1")
 				(uuid "41a8a19a-1936-4332-a99e-a3a1aad7de5d")
 				(effects
@@ -2150,7 +2150,7 @@
 	(footprint "000-industrial:adam-6xxx"
 		(layer "F.Cu")
 		(uuid "27007c1f-ba23-4ceb-9632-a8faad58a811")
-		(at 166.8145 160.274)
+		(at 219.583 164.592)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "A1"
@@ -2286,7 +2286,7 @@
 	(footprint "000-industrial:relay-SPDT-888-6798"
 		(layer "F.Cu")
 		(uuid "2ccc4848-299d-45f6-b5d4-9255c9a503ef")
-		(at 274.193 237.744)
+		(at 278.003 247.3325)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "K3"
@@ -2471,11 +2471,11 @@
 			(layer "User.1")
 			(uuid "296af058-7c5a-4a18-b282-8769526f2bd4")
 			(pts
-				(xy 271.145 228.219) (xy 277.241 228.219)
+				(xy 274.955 237.8075) (xy 281.051 237.8075)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 274.193 214.933355 0)
+				(at 278.003 224.521855 0)
 				(layer "User.1")
 				(uuid "296af058-7c5a-4a18-b282-8769526f2bd4")
 				(effects
@@ -2562,7 +2562,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "2d477e2b-86d3-485c-9155-91adf7685f0c")
-		(at 75.692 398.018)
+		(at 109.728 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J21"
@@ -2695,11 +2695,11 @@
 			(layer "User.1")
 			(uuid "3c90d3f9-3354-4082-8187-af2be00b81db")
 			(pts
-				(xy 72.644 368.173) (xy 78.74 368.173)
+				(xy 106.68 380.492) (xy 112.776 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 75.692 354.887355 0)
+				(at 109.728 367.206355 0)
 				(layer "User.1")
 				(uuid "3c90d3f9-3354-4082-8187-af2be00b81db")
 				(effects
@@ -2756,7 +2756,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "2ea4d915-7cd7-4297-a7de-547ca616868c")
-		(at 107.061 398.018)
+		(at 141.097 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J19"
@@ -2889,11 +2889,11 @@
 			(layer "User.1")
 			(uuid "0a7ea9b7-d230-4377-a7ee-9f172832f440")
 			(pts
-				(xy 104.013 368.173) (xy 110.109 368.173)
+				(xy 138.049 380.492) (xy 144.145 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 107.061 354.887355 0)
+				(at 141.097 367.206355 0)
 				(layer "User.1")
 				(uuid "0a7ea9b7-d230-4377-a7ee-9f172832f440")
 				(effects
@@ -2950,7 +2950,7 @@
 	(footprint "000-industrial:led-panel-mount-indicator"
 		(layer "F.Cu")
 		(uuid "3086a951-8387-4426-85a4-753947ccfe68")
-		(at 240.665 343.789)
+		(at 335.915 242.189)
 		(descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
 		(tags "LED diameter 5.0mm 2 pins")
 		(property "Reference" "D3"
@@ -3301,11 +3301,11 @@
 			(layer "User.1")
 			(uuid "1a11acf0-a991-4083-bf4f-0433af4c34c6")
 			(pts
-				(xy 234.061 344.424) (xy 250.19 344.424)
+				(xy 329.311 242.824) (xy 345.44 242.824)
 			)
 			(height -21.59)
 			(gr_text "16.1290 mm"
-				(at 242.1255 321.684 0)
+				(at 337.3755 220.084 0)
 				(layer "User.1")
 				(uuid "1a11acf0-a991-4083-bf4f-0433af4c34c6")
 				(effects
@@ -3366,7 +3366,7 @@
 	(footprint "000-industrial:KSIM380D16-L-solid-state-relay"
 		(layer "F.Cu")
 		(uuid "395c44cb-50ee-4970-a4bd-040ed955ec55")
-		(at 204.343 371.348)
+		(at 267.716 379.603)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "U1"
@@ -3570,11 +3570,11 @@
 			(layer "User.1")
 			(uuid "2464bde1-8728-418a-9d16-e570b7575627")
 			(pts
-				(xy 190.373 363.093) (xy 218.6305 363.093)
+				(xy 253.746 371.348) (xy 282.0035 371.348)
 			)
 			(height -4.445)
 			(gr_text "28.2575 mm"
-				(at 204.50175 357.498 0)
+				(at 267.87475 365.753 0)
 				(layer "User.1")
 				(uuid "2464bde1-8728-418a-9d16-e570b7575627")
 				(effects
@@ -3603,11 +3603,11 @@
 			(layer "User.1")
 			(uuid "6627f354-6a27-4ab7-99f7-9381f7d8ac8a")
 			(pts
-				(xy 189.103 363.093) (xy 189.103 401.193)
+				(xy 252.476 371.348) (xy 252.476 409.448)
 			)
 			(height 0)
 			(gr_text "38.1000 mm"
-				(at 187.953 382.143 90)
+				(at 251.326 390.398 90)
 				(layer "User.1")
 				(uuid "6627f354-6a27-4ab7-99f7-9381f7d8ac8a")
 				(effects
@@ -3636,11 +3636,11 @@
 			(layer "User.1")
 			(uuid "fd3c1ae3-a3f2-404c-b960-3f1a24886adf")
 			(pts
-				(xy 204.343 366.268) (xy 204.343 397.383)
+				(xy 267.716 374.523) (xy 267.716 405.638)
 			)
 			(height 0)
 			(gr_text "31.1150 mm"
-				(at 203.193 381.8255 90)
+				(at 266.566 390.0805 90)
 				(layer "User.1")
 				(uuid "fd3c1ae3-a3f2-404c-b960-3f1a24886adf")
 				(effects
@@ -3733,7 +3733,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "3adf45a3-9f9b-4741-9a83-0059f73eb7aa")
-		(at 119.126 276.86)
+		(at 125.222 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J18"
@@ -3866,11 +3866,11 @@
 			(layer "User.1")
 			(uuid "2aefbce5-a931-4e1f-8843-b504a0a952fa")
 			(pts
-				(xy 116.078 247.015) (xy 122.174 247.015)
+				(xy 122.174 256.9845) (xy 128.27 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 119.126 233.729355 0)
+				(at 125.222 243.698855 0)
 				(layer "User.1")
 				(uuid "2aefbce5-a931-4e1f-8843-b504a0a952fa")
 				(effects
@@ -3927,7 +3927,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "3bb3b08b-5809-4698-9ca1-8ab6a70da512")
-		(at 100.076 276.86)
+		(at 106.172 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J11"
@@ -4060,11 +4060,11 @@
 			(layer "User.1")
 			(uuid "febb7c1d-cbb2-4ab9-a3c5-360d5f5a109a")
 			(pts
-				(xy 97.028 247.015) (xy 103.124 247.015)
+				(xy 103.124 256.9845) (xy 109.22 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 100.076 233.729355 0)
+				(at 106.172 243.698855 0)
 				(layer "User.1")
 				(uuid "febb7c1d-cbb2-4ab9-a3c5-360d5f5a109a")
 				(effects
@@ -4121,7 +4121,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "3c223b7c-d7be-4b04-9482-ca5a0c08dd43")
-		(at 75.184 276.86)
+		(at 81.28 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J7"
@@ -4254,11 +4254,11 @@
 			(layer "User.1")
 			(uuid "20e3b75d-692d-4e02-9489-edcfeeab9e98")
 			(pts
-				(xy 72.136 247.015) (xy 78.232 247.015)
+				(xy 78.232 256.9845) (xy 84.328 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 75.184 233.729355 0)
+				(at 81.28 243.698855 0)
 				(layer "User.1")
 				(uuid "20e3b75d-692d-4e02-9489-edcfeeab9e98")
 				(effects
@@ -4315,7 +4315,7 @@
 	(footprint "000-industrial:led-panel-mount-indicator"
 		(layer "F.Cu")
 		(uuid "4179ef76-b19d-41ac-8562-275ac5728faf")
-		(at 169.164 384.048)
+		(at 224.155 407.67)
 		(descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
 		(tags "LED diameter 5.0mm 2 pins")
 		(property "Reference" "D4"
@@ -4330,7 +4330,7 @@
 			)
 		)
 		(property "Value" "Solvent Level Indicator"
-			(at 1.905 -0.001229 0)
+			(at 30.226 -23.241 0)
 			(layer "F.Fab")
 			(uuid "1420e15d-f3a4-4278-84d1-d038881e9595")
 			(effects
@@ -4639,7 +4639,7 @@
 			)
 		)
 		(fp_text user "A"
-			(at 2.159 -1.397 0)
+			(at 26.035 3.81 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "fa6684c9-0ce1-464f-9147-3d38e4e684cf")
@@ -4651,7 +4651,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.254 2.54 0)
+			(at -6.985 0 0)
 			(layer "F.Fab")
 			(uuid "4e6da090-f0e6-4053-a6c9-4f48cdada6be")
 			(effects
@@ -4666,11 +4666,11 @@
 			(layer "User.1")
 			(uuid "dc1cb5b6-54d8-47f3-99d0-3cf1d5312814")
 			(pts
-				(xy 162.56 384.683) (xy 178.689 384.683)
+				(xy 217.551 408.305) (xy 233.68 408.305)
 			)
 			(height -21.59)
 			(gr_text "16.1290 mm"
-				(at 170.6245 361.943 0)
+				(at 225.6155 385.565 0)
 				(layer "User.1")
 				(uuid "dc1cb5b6-54d8-47f3-99d0-3cf1d5312814")
 				(effects
@@ -4731,7 +4731,7 @@
 	(footprint "000-industrial:relay-SPDT-888-6798"
 		(layer "F.Cu")
 		(uuid "4217b212-0c8a-40ba-bf2f-48284921d457")
-		(at 261.493 237.744)
+		(at 265.303 247.3325)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "K1"
@@ -4916,11 +4916,11 @@
 			(layer "User.1")
 			(uuid "6198b0fc-db7d-4dc3-a64f-ebfbe4b13191")
 			(pts
-				(xy 258.445 228.219) (xy 264.541 228.219)
+				(xy 262.255 237.8075) (xy 268.351 237.8075)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 261.493 214.933355 0)
+				(at 265.303 224.521855 0)
 				(layer "User.1")
 				(uuid "6198b0fc-db7d-4dc3-a64f-ebfbe4b13191")
 				(effects
@@ -5007,7 +5007,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "43052894-843e-476b-a5df-4cf518d5edfa")
-		(at 150.114 276.86)
+		(at 156.21 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J6"
@@ -5140,11 +5140,11 @@
 			(layer "User.1")
 			(uuid "64b6955f-6501-4ec1-a245-85e28c72fb67")
 			(pts
-				(xy 147.066 247.015) (xy 153.162 247.015)
+				(xy 153.162 256.9845) (xy 159.258 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 150.114 233.729355 0)
+				(at 156.21 243.698855 0)
 				(layer "User.1")
 				(uuid "64b6955f-6501-4ec1-a245-85e28c72fb67")
 				(effects
@@ -5201,11 +5201,11 @@
 	(footprint "000_Modules_Immo:LM2596S DC-DC Module"
 		(layer "F.Cu")
 		(uuid "5199eedd-c247-48a1-aa20-82baf2024f16")
-		(at 88.6206 196.7738)
+		(at 131.7625 203.962)
 		(descr "TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/")
 		(tags "D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426")
 		(property "Reference" "A5"
-			(at 20.447 14.732 180)
+			(at 24.257 24.3205 180)
 			(layer "F.SilkS")
 			(uuid "daf3af8a-8670-44f2-8dce-8dad36daada4")
 			(effects
@@ -5422,7 +5422,7 @@
 	(footprint "000-industrial:schneider-3phase-16-breaker"
 		(layer "F.Cu")
 		(uuid "56c9aacc-fd47-4285-999b-fe2769ad25ec")
-		(at 43.942 398.272)
+		(at 77.978 410.591)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "CB1"
@@ -5658,7 +5658,7 @@
 	(footprint "000-industrial:DIN-RAIL-100mm"
 		(layer "F.Cu")
 		(uuid "5ccfdd23-fefd-4c18-bb47-3160b33231ce")
-		(at 201.1045 160.274)
+		(at 253.873 164.592)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "DRA2"
@@ -5975,11 +5975,11 @@
 			(layer "User.1")
 			(uuid "0bc97d3b-aec5-44ed-8829-817c891ea15d")
 			(pts
-				(xy 172.5041 154.458846) (xy 179.5145 154.458846)
+				(xy 225.2726 158.776846) (xy 232.283 158.776846)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 176.0093 151.3008 0)
+				(at 228.7778 155.6188 0)
 				(layer "User.1")
 				(uuid "0bc97d3b-aec5-44ed-8829-817c891ea15d")
 				(effects
@@ -6008,11 +6008,11 @@
 			(layer "User.1")
 			(uuid "201f36c1-530c-43c3-b2b4-5744031e5038")
 			(pts
-				(xy 150.9395 143.129) (xy 251.2695 143.129)
+				(xy 203.708 147.447) (xy 304.038 147.447)
 			)
 			(height -6.985)
 			(gr_text "100.3300 mm"
-				(at 201.1045 134.994 0)
+				(at 253.873 139.312 0)
 				(layer "User.1")
 				(uuid "201f36c1-530c-43c3-b2b4-5744031e5038")
 				(effects
@@ -6041,11 +6041,11 @@
 			(layer "User.1")
 			(uuid "362755ae-a118-443f-993c-4e5901d60bf7")
 			(pts
-				(xy 150.9395 142.494) (xy 150.9395 178.054)
+				(xy 203.708 146.812) (xy 203.708 182.372)
 			)
 			(height 14.660113)
 			(gr_text "35.5600 mm"
-				(at 135.129387 160.274 90)
+				(at 187.897887 164.592 90)
 				(layer "User.1")
 				(uuid "362755ae-a118-443f-993c-4e5901d60bf7")
 				(effects
@@ -6074,11 +6074,11 @@
 			(layer "User.1")
 			(uuid "4dab601e-d690-4513-9077-3231d1ea1888")
 			(pts
-				(xy 197.3961 154.8892) (xy 204.4065 154.8892)
+				(xy 250.1646 159.2072) (xy 257.175 159.2072)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 200.9013 151.731154 0)
+				(at 253.6698 156.049154 0)
 				(layer "User.1")
 				(uuid "4dab601e-d690-4513-9077-3231d1ea1888")
 				(effects
@@ -6107,11 +6107,11 @@
 			(layer "User.1")
 			(uuid "637e256a-eac5-4031-b6f0-2d155ab8b916")
 			(pts
-				(xy 222.3389 154.103246) (xy 229.3493 154.103246)
+				(xy 275.1074 158.421246) (xy 282.1178 158.421246)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 225.8441 150.9452 0)
+				(at 278.6126 155.2632 0)
 				(layer "User.1")
 				(uuid "637e256a-eac5-4031-b6f0-2d155ab8b916")
 				(effects
@@ -6140,11 +6140,11 @@
 			(layer "User.1")
 			(uuid "63af03ea-4c2f-4f4c-acb4-c0dfe55f3d6d")
 			(pts
-				(xy 150.9649 154.458846) (xy 154.5971 154.458846)
+				(xy 203.7334 158.776846) (xy 207.3656 158.776846)
 			)
 			(height -2.008046)
 			(gr_text "3.6322 mm"
-				(at 152.781 151.3008 0)
+				(at 205.5495 155.6188 0)
 				(layer "User.1")
 				(uuid "63af03ea-4c2f-4f4c-acb4-c0dfe55f3d6d")
 				(effects
@@ -6173,11 +6173,11 @@
 			(layer "User.1")
 			(uuid "6ba79714-4cee-4ca7-800c-b62937801b38")
 			(pts
-				(xy 150.9395 147.8915) (xy 150.9395 172.6565)
+				(xy 203.708 152.2095) (xy 203.708 176.9745)
 			)
 			(height 5.910859)
 			(gr_text "24.7650 mm"
-				(at 143.878641 160.274 90)
+				(at 196.647141 164.592 90)
 				(layer "User.1")
 				(uuid "6ba79714-4cee-4ca7-800c-b62937801b38")
 				(effects
@@ -6206,11 +6206,11 @@
 			(layer "User.1")
 			(uuid "e7ec8d61-b234-477b-b6d3-b33e9b2c7f44")
 			(pts
-				(xy 154.5971 154.458846) (xy 172.5041 154.458846)
+				(xy 207.3656 158.776846) (xy 225.2726 158.776846)
 			)
 			(height -2.008046)
 			(gr_text "17.9070 mm"
-				(at 163.5506 151.3008 0)
+				(at 216.3191 155.6188 0)
 				(layer "User.1")
 				(uuid "e7ec8d61-b234-477b-b6d3-b33e9b2c7f44")
 				(effects
@@ -6277,7 +6277,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "5fa5692b-2cf5-4645-a1f2-27515b9315b0")
-		(at 137.795 276.86)
+		(at 143.891 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J12"
@@ -6410,11 +6410,11 @@
 			(layer "User.1")
 			(uuid "8c6a175c-944f-47d9-8488-e71959fe1dfe")
 			(pts
-				(xy 134.747 247.015) (xy 140.843 247.015)
+				(xy 140.843 256.9845) (xy 146.939 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 137.795 233.729355 0)
+				(at 143.891 243.698855 0)
 				(layer "User.1")
 				(uuid "8c6a175c-944f-47d9-8488-e71959fe1dfe")
 				(effects
@@ -6471,7 +6471,7 @@
 	(footprint "000-industrial:KSIM380D16-L-solid-state-relay"
 		(layer "F.Cu")
 		(uuid "68444e3f-ccdf-40f6-80bb-c94b91f92eb5")
-		(at 261.493 420.878)
+		(at 323.342 426.72)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "U5"
@@ -6675,11 +6675,11 @@
 			(layer "User.1")
 			(uuid "2ac53dd4-75db-4176-9929-710375767372")
 			(pts
-				(xy 247.523 412.623) (xy 275.7805 412.623)
+				(xy 309.372 418.465) (xy 337.6295 418.465)
 			)
 			(height -4.445)
 			(gr_text "28.2575 mm"
-				(at 261.65175 407.028 0)
+				(at 323.50075 412.87 0)
 				(layer "User.1")
 				(uuid "2ac53dd4-75db-4176-9929-710375767372")
 				(effects
@@ -6708,11 +6708,11 @@
 			(layer "User.1")
 			(uuid "9b06f820-60dc-4696-a931-d67d554e363b")
 			(pts
-				(xy 261.493 415.798) (xy 261.493 446.913)
+				(xy 323.342 421.64) (xy 323.342 452.755)
 			)
 			(height 0)
 			(gr_text "31.1150 mm"
-				(at 260.343 431.3555 90)
+				(at 322.192 437.1975 90)
 				(layer "User.1")
 				(uuid "9b06f820-60dc-4696-a931-d67d554e363b")
 				(effects
@@ -6741,11 +6741,11 @@
 			(layer "User.1")
 			(uuid "e4b40b35-3355-4f26-a789-dcd0b0b890a6")
 			(pts
-				(xy 246.253 412.623) (xy 246.253 450.723)
+				(xy 308.102 418.465) (xy 308.102 456.565)
 			)
 			(height 0)
 			(gr_text "38.1000 mm"
-				(at 245.103 431.673 90)
+				(at 306.952 437.515 90)
 				(layer "User.1")
 				(uuid "e4b40b35-3355-4f26-a789-dcd0b0b890a6")
 				(effects
@@ -6838,7 +6838,7 @@
 	(footprint "000-industrial:adam-6xxx"
 		(layer "F.Cu")
 		(uuid "6ee3dfec-354c-4684-b9fe-1a2e08a5c7b9")
-		(at 237.2995 160.401)
+		(at 290.068 164.719)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "A2"
@@ -6974,7 +6974,7 @@
 	(footprint "000-industrial:KSIM380D16-L-solid-state-relay"
 		(layer "F.Cu")
 		(uuid "70a708a9-a047-4a67-8d1c-52d5b5606131")
-		(at 263.098 371.348)
+		(at 326.471 379.603)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "U3"
@@ -7178,11 +7178,11 @@
 			(layer "User.1")
 			(uuid "3e4864dd-f0a2-42b0-a471-471046dade5a")
 			(pts
-				(xy 249.128 363.093) (xy 277.3855 363.093)
+				(xy 312.501 371.348) (xy 340.7585 371.348)
 			)
 			(height -4.445)
 			(gr_text "28.2575 mm"
-				(at 263.25675 357.498 0)
+				(at 326.62975 365.753 0)
 				(layer "User.1")
 				(uuid "3e4864dd-f0a2-42b0-a471-471046dade5a")
 				(effects
@@ -7211,11 +7211,11 @@
 			(layer "User.1")
 			(uuid "99a8dc1f-ff07-485c-8566-bd2a20f5e6f9")
 			(pts
-				(xy 263.098 366.268) (xy 263.098 397.383)
+				(xy 326.471 374.523) (xy 326.471 405.638)
 			)
 			(height 0)
 			(gr_text "31.1150 mm"
-				(at 261.948 381.8255 90)
+				(at 325.321 390.0805 90)
 				(layer "User.1")
 				(uuid "99a8dc1f-ff07-485c-8566-bd2a20f5e6f9")
 				(effects
@@ -7244,11 +7244,11 @@
 			(layer "User.1")
 			(uuid "aa1b074b-8dc0-4f51-847a-5c3d4b68fd6d")
 			(pts
-				(xy 247.858 363.093) (xy 247.858 401.193)
+				(xy 311.231 371.348) (xy 311.231 409.448)
 			)
 			(height 0)
 			(gr_text "38.1000 mm"
-				(at 246.708 382.143 90)
+				(at 310.081 390.398 90)
 				(layer "User.1")
 				(uuid "aa1b074b-8dc0-4f51-847a-5c3d4b68fd6d")
 				(effects
@@ -7341,7 +7341,7 @@
 	(footprint "000-industrial:raspberry-pi"
 		(layer "F.Cu")
 		(uuid "71b6450e-502a-480d-9284-bbe2ee0ff5df")
-		(at 201.803 58.293 -90)
+		(at 263.652 58.293 -90)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "A3"
@@ -7538,7 +7538,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "724e87a7-700c-4bfc-b06b-f6fdd5977eaf")
-		(at 81.407 276.86)
+		(at 87.503 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J13"
@@ -7671,11 +7671,11 @@
 			(layer "User.1")
 			(uuid "91e9761b-1849-496e-899c-63938ac9d591")
 			(pts
-				(xy 78.359 247.015) (xy 84.455 247.015)
+				(xy 84.455 256.9845) (xy 90.551 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 81.407 233.729355 0)
+				(at 87.503 243.698855 0)
 				(layer "User.1")
 				(uuid "91e9761b-1849-496e-899c-63938ac9d591")
 				(effects
@@ -7732,7 +7732,7 @@
 	(footprint "000-industrial:DIN-RAIL-100mm"
 		(layer "F.Cu")
 		(uuid "772be32a-adad-40c7-bb1a-a205abe1fa23")
-		(at 83.693 276.225)
+		(at 87.503 285.8135)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "DRA1"
@@ -8049,11 +8049,11 @@
 			(layer "User.1")
 			(uuid "1c057f7f-b926-4d34-aea7-52321e07901b")
 			(pts
-				(xy 33.528 258.445) (xy 33.528 294.005)
+				(xy 37.338 268.0335) (xy 37.338 303.5935)
 			)
 			(height 14.660113)
 			(gr_text "35.5600 mm"
-				(at 17.717887 276.225 90)
+				(at 21.527887 285.8135 90)
 				(layer "User.1")
 				(uuid "1c057f7f-b926-4d34-aea7-52321e07901b")
 				(effects
@@ -8082,11 +8082,11 @@
 			(layer "User.1")
 			(uuid "3a1f75ac-ede1-4dcd-bfb5-84ed4da2e930")
 			(pts
-				(xy 33.528 259.08) (xy 133.858 259.08)
+				(xy 37.338 268.6685) (xy 137.668 268.6685)
 			)
 			(height -6.985)
 			(gr_text "100.3300 mm"
-				(at 83.693 250.945 0)
+				(at 87.503 260.5335 0)
 				(layer "User.1")
 				(uuid "3a1f75ac-ede1-4dcd-bfb5-84ed4da2e930")
 				(effects
@@ -8115,11 +8115,11 @@
 			(layer "User.1")
 			(uuid "3a3ca4c6-4719-4bf9-b0bf-3b89e635c0f7")
 			(pts
-				(xy 55.0926 270.409846) (xy 62.103 270.409846)
+				(xy 58.9026 279.998346) (xy 65.913 279.998346)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 58.5978 267.2518 0)
+				(at 62.4078 276.8403 0)
 				(layer "User.1")
 				(uuid "3a3ca4c6-4719-4bf9-b0bf-3b89e635c0f7")
 				(effects
@@ -8148,11 +8148,11 @@
 			(layer "User.1")
 			(uuid "4613eba2-ab01-4669-a850-249aeda4a231")
 			(pts
-				(xy 104.9274 270.054246) (xy 111.9378 270.054246)
+				(xy 108.7374 279.642746) (xy 115.7478 279.642746)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 108.4326 266.8962 0)
+				(at 112.2426 276.4847 0)
 				(layer "User.1")
 				(uuid "4613eba2-ab01-4669-a850-249aeda4a231")
 				(effects
@@ -8181,11 +8181,11 @@
 			(layer "User.1")
 			(uuid "645a2e63-2d1f-45fc-8af2-db5d471361af")
 			(pts
-				(xy 33.5534 270.409846) (xy 37.1856 270.409846)
+				(xy 37.3634 279.998346) (xy 40.9956 279.998346)
 			)
 			(height -2.008046)
 			(gr_text "3.6322 mm"
-				(at 35.3695 267.2518 0)
+				(at 39.1795 276.8403 0)
 				(layer "User.1")
 				(uuid "645a2e63-2d1f-45fc-8af2-db5d471361af")
 				(effects
@@ -8214,11 +8214,11 @@
 			(layer "User.1")
 			(uuid "7c7cd618-684f-4821-9bdd-f0a88482d278")
 			(pts
-				(xy 37.1856 270.409846) (xy 55.0926 270.409846)
+				(xy 40.9956 279.998346) (xy 58.9026 279.998346)
 			)
 			(height -2.008046)
 			(gr_text "17.9070 mm"
-				(at 46.1391 267.2518 0)
+				(at 49.9491 276.8403 0)
 				(layer "User.1")
 				(uuid "7c7cd618-684f-4821-9bdd-f0a88482d278")
 				(effects
@@ -8247,11 +8247,11 @@
 			(layer "User.1")
 			(uuid "c8fde4d4-65f9-4161-95f9-203de49e6129")
 			(pts
-				(xy 33.528 263.8425) (xy 33.528 288.6075)
+				(xy 37.338 273.431) (xy 37.338 298.196)
 			)
 			(height 5.910859)
 			(gr_text "24.7650 mm"
-				(at 26.467141 276.225 90)
+				(at 30.277141 285.8135 90)
 				(layer "User.1")
 				(uuid "c8fde4d4-65f9-4161-95f9-203de49e6129")
 				(effects
@@ -8280,11 +8280,11 @@
 			(layer "User.1")
 			(uuid "d19482f0-44b8-4f97-b234-f6cc08e7655e")
 			(pts
-				(xy 79.9846 270.8402) (xy 86.995 270.8402)
+				(xy 83.7946 280.4287) (xy 90.805 280.4287)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 83.4898 267.682154 0)
+				(at 87.2998 277.270654 0)
 				(layer "User.1")
 				(uuid "d19482f0-44b8-4f97-b234-f6cc08e7655e")
 				(effects
@@ -8351,7 +8351,7 @@
 	(footprint "000-industrial:led-panel-mount-indicator"
 		(layer "F.Cu")
 		(uuid "776d702f-cd33-4728-975a-735d70fd4660")
-		(at 265.049 343.662)
+		(at 335.026 270.51)
 		(descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
 		(tags "LED diameter 5.0mm 2 pins")
 		(property "Reference" "D2"
@@ -8366,7 +8366,7 @@
 			)
 		)
 		(property "Value" "Solvent Mode Indicator"
-			(at 1.27 3.96 0)
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "b729ee89-b007-438d-8cb6-1a84f20b8256")
 			(effects
@@ -8702,11 +8702,11 @@
 			(layer "User.1")
 			(uuid "6db87c24-465e-436f-8cbd-962f8747bfd8")
 			(pts
-				(xy 258.445 344.297) (xy 274.574 344.297)
+				(xy 328.422 271.145) (xy 344.551 271.145)
 			)
 			(height -21.59)
 			(gr_text "16.1290 mm"
-				(at 266.5095 321.557 0)
+				(at 336.4865 248.405 0)
 				(layer "User.1")
 				(uuid "6db87c24-465e-436f-8cbd-962f8747bfd8")
 				(effects
@@ -8767,7 +8767,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "7cfb33a1-64a1-4b45-af48-ef835e6d2d08")
-		(at 125.349 276.86)
+		(at 131.445 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J17"
@@ -8900,11 +8900,11 @@
 			(layer "User.1")
 			(uuid "712bb400-d7c8-4612-9502-70e76af282be")
 			(pts
-				(xy 122.301 247.015) (xy 128.397 247.015)
+				(xy 128.397 256.9845) (xy 134.493 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 125.349 233.729355 0)
+				(at 131.445 243.698855 0)
 				(layer "User.1")
 				(uuid "712bb400-d7c8-4612-9502-70e76af282be")
 				(effects
@@ -8961,7 +8961,7 @@
 	(footprint "000-industrial:relay-DPDT-finder-623-7157"
 		(layer "F.Cu")
 		(uuid "7d17400a-999c-4d43-a7d3-cb614f97328e")
-		(at 233.172 256.9845)
+		(at 236.982 266.573)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "K4"
@@ -9172,11 +9172,11 @@
 			(layer "User.1")
 			(uuid "23cca240-3e19-42ee-99c7-91b431eed757")
 			(pts
-				(xy 225.552 324.9295) (xy 225.552 235.3945)
+				(xy 229.362 334.518) (xy 229.362 244.983)
 			)
 			(height -12.135645)
 			(gr_text "89.5350 mm"
-				(at 212.266355 280.162 90)
+				(at 216.076355 289.7505 90)
 				(layer "User.1")
 				(uuid "23cca240-3e19-42ee-99c7-91b431eed757")
 				(effects
@@ -9205,11 +9205,11 @@
 			(layer "User.1")
 			(uuid "ca3a11ab-26dc-4dd3-9bd8-7f8908992649")
 			(pts
-				(xy 225.552 235.465145) (xy 241.427 235.465145)
+				(xy 229.362 245.053645) (xy 245.237 245.053645)
 			)
 			(height -12.135645)
 			(gr_text "15.8750 mm"
-				(at 233.4895 222.1795 0)
+				(at 237.2995 231.768 0)
 				(layer "User.1")
 				(uuid "ca3a11ab-26dc-4dd3-9bd8-7f8908992649")
 				(effects
@@ -9376,11 +9376,11 @@
 	(footprint "000_Modules_Immo:LM2596S DC-DC Module"
 		(layer "F.Cu")
 		(uuid "7d78f3ea-3dd2-4a07-92f1-1657c1365c1e")
-		(at 88.7476 171.2468)
+		(at 131.8895 178.435)
 		(descr "TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/")
 		(tags "D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426")
 		(property "Reference" "A6"
-			(at 20.447 14.732 360)
+			(at 20.447 14.732 0)
 			(layer "F.SilkS")
 			(uuid "33b930b7-f4ff-4154-8f45-bce53368c517")
 			(effects
@@ -9391,7 +9391,7 @@
 			)
 		)
 		(property "Value" "LM2596S DC-DC Module"
-			(at 4.953 14.7828 360)
+			(at 4.953 14.7828 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0d6f3cdf-58cb-40f8-b39f-619945fb5f01")
@@ -9514,7 +9514,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "9bb1952e-1517-4301-97f2-00ce5daf8e75")
 			(effects
@@ -9601,7 +9601,7 @@
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "A4"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "8c863240-40f0-4bd7-bdc8-34530419fe46")
@@ -9613,7 +9613,7 @@
 			)
 		)
 		(property "Value" "5-port-network-switch"
-			(at 18.415 -41.91 270)
+			(at 18.415 -41.91 -90)
 			(layer "F.Fab")
 			(uuid "a790b39b-3e1b-4b8c-b1c7-fd24d2578119")
 			(effects
@@ -10384,7 +10384,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 15.875 -43.815 270)
+			(at 15.875 -43.815 -90)
 			(layer "F.Fab")
 			(uuid "0a9be909-c56e-4e6d-a400-6ade0a3739e5")
 			(effects
@@ -10959,7 +10959,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "877e6c4c-2b70-49b9-aee8-8e564d2a13fb")
-		(at 119.761 398.018)
+		(at 153.797 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J25"
@@ -11092,11 +11092,11 @@
 			(layer "User.1")
 			(uuid "b163c8fa-5d12-4486-bdef-9b101d417311")
 			(pts
-				(xy 116.713 368.173) (xy 122.809 368.173)
+				(xy 150.749 380.492) (xy 156.845 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 119.761 354.887355 0)
+				(at 153.797 367.206355 0)
 				(layer "User.1")
 				(uuid "b163c8fa-5d12-4486-bdef-9b101d417311")
 				(effects
@@ -11153,7 +11153,7 @@
 	(footprint "000-industrial:KSIM380D16-L-solid-state-relay"
 		(layer "F.Cu")
 		(uuid "88ae4ec6-cd3d-439b-9959-0e0d8f875833")
-		(at 203.073 420.878)
+		(at 264.922 426.72)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "U4"
@@ -11357,11 +11357,11 @@
 			(layer "User.1")
 			(uuid "0690f094-e9bd-45bf-b415-c254d1240003")
 			(pts
-				(xy 189.103 412.623) (xy 217.3605 412.623)
+				(xy 250.952 418.465) (xy 279.2095 418.465)
 			)
 			(height -4.445)
 			(gr_text "28.2575 mm"
-				(at 203.23175 407.028 0)
+				(at 265.08075 412.87 0)
 				(layer "User.1")
 				(uuid "0690f094-e9bd-45bf-b415-c254d1240003")
 				(effects
@@ -11390,11 +11390,11 @@
 			(layer "User.1")
 			(uuid "59e82a7e-6e6b-41fb-9bd2-bcc8839c7f86")
 			(pts
-				(xy 187.833 412.623) (xy 187.833 450.723)
+				(xy 249.682 418.465) (xy 249.682 456.565)
 			)
 			(height 0)
 			(gr_text "38.1000 mm"
-				(at 186.683 431.673 90)
+				(at 248.532 437.515 90)
 				(layer "User.1")
 				(uuid "59e82a7e-6e6b-41fb-9bd2-bcc8839c7f86")
 				(effects
@@ -11423,11 +11423,11 @@
 			(layer "User.1")
 			(uuid "d071bdb8-f2aa-40a9-b523-d2dd078f9279")
 			(pts
-				(xy 203.073 415.798) (xy 203.073 446.913)
+				(xy 264.922 421.64) (xy 264.922 452.755)
 			)
 			(height 0)
 			(gr_text "31.1150 mm"
-				(at 201.923 431.3555 90)
+				(at 263.772 437.1975 90)
 				(layer "User.1")
 				(uuid "d071bdb8-f2aa-40a9-b523-d2dd078f9279")
 				(effects
@@ -11520,11 +11520,11 @@
 	(footprint "000_Modules_Immo:LM2596S DC-DC Module"
 		(layer "F.Cu")
 		(uuid "918b6920-055c-4ab1-89e3-56f2a9aa0eea")
-		(at 164.6428 333.8322 90)
+		(at 202.4888 357.7082 90)
 		(descr "TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/")
 		(tags "D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426")
 		(property "Reference" "A7"
-			(at 20.447 14.732 270)
+			(at 20.447 14.732 -90)
 			(layer "F.SilkS")
 			(uuid "aa9489e9-cf2b-4174-a628-9524f209e48c")
 			(effects
@@ -11535,7 +11535,7 @@
 			)
 		)
 		(property "Value" "LM2596S DC-DC Module"
-			(at 4.953 14.7828 270)
+			(at 4.953 14.7828 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5fc59b68-9c71-4163-a943-09ac70b0e9ee")
@@ -11658,7 +11658,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "a2c69a27-a133-48ac-a370-0e6b04bcf680")
 			(effects
@@ -11741,7 +11741,7 @@
 	(footprint "000-industrial:24v-30W-psu-DIN-rail"
 		(layer "F.Cu")
 		(uuid "9561bdd9-2bf2-412f-bba3-feaa7ac4f6a4")
-		(at 34.671 291.592)
+		(at 38.481 301.1805)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "G1"
@@ -11987,7 +11987,7 @@
 	(footprint "000-industrial:DIN-RAIL-100mm"
 		(layer "F.Cu")
 		(uuid "957d06b0-0b64-4f73-bcb4-ee1bc2f9513b")
-		(at 81.153 397.002)
+		(at 115.189 409.321)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "DRA4"
@@ -12304,11 +12304,11 @@
 			(layer "User.1")
 			(uuid "0d810d2e-9b2b-4d23-808e-ed2aaf8ef9c0")
 			(pts
-				(xy 77.4446 391.6172) (xy 84.455 391.6172)
+				(xy 111.4806 403.9362) (xy 118.491 403.9362)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 80.9498 388.459154 0)
+				(at 114.9858 400.778154 0)
 				(layer "User.1")
 				(uuid "0d810d2e-9b2b-4d23-808e-ed2aaf8ef9c0")
 				(effects
@@ -12337,11 +12337,11 @@
 			(layer "User.1")
 			(uuid "2935d9bd-c32b-423b-8b66-54a08f95527f")
 			(pts
-				(xy 30.988 384.6195) (xy 30.988 409.3845)
+				(xy 65.024 396.9385) (xy 65.024 421.7035)
 			)
 			(height 5.910859)
 			(gr_text "24.7650 mm"
-				(at 23.927141 397.002 90)
+				(at 57.963141 409.321 90)
 				(layer "User.1")
 				(uuid "2935d9bd-c32b-423b-8b66-54a08f95527f")
 				(effects
@@ -12370,11 +12370,11 @@
 			(layer "User.1")
 			(uuid "5b8af394-fb8e-4697-826d-f01405ad39fb")
 			(pts
-				(xy 31.0134 391.186846) (xy 34.6456 391.186846)
+				(xy 65.0494 403.505846) (xy 68.6816 403.505846)
 			)
 			(height -2.008046)
 			(gr_text "3.6322 mm"
-				(at 32.8295 388.0288 0)
+				(at 66.8655 400.3478 0)
 				(layer "User.1")
 				(uuid "5b8af394-fb8e-4697-826d-f01405ad39fb")
 				(effects
@@ -12403,11 +12403,11 @@
 			(layer "User.1")
 			(uuid "690f7d41-b532-48b8-bacd-53cfa386a5a4")
 			(pts
-				(xy 30.988 379.222) (xy 30.988 414.782)
+				(xy 65.024 391.541) (xy 65.024 427.101)
 			)
 			(height 14.660113)
 			(gr_text "35.5600 mm"
-				(at 15.177887 397.002 90)
+				(at 49.213887 409.321 90)
 				(layer "User.1")
 				(uuid "690f7d41-b532-48b8-bacd-53cfa386a5a4")
 				(effects
@@ -12436,11 +12436,11 @@
 			(layer "User.1")
 			(uuid "85341bba-c48e-402e-abc3-ee905288ca08")
 			(pts
-				(xy 34.6456 391.186846) (xy 52.5526 391.186846)
+				(xy 68.6816 403.505846) (xy 86.5886 403.505846)
 			)
 			(height -2.008046)
 			(gr_text "17.9070 mm"
-				(at 43.5991 388.0288 0)
+				(at 77.6351 400.3478 0)
 				(layer "User.1")
 				(uuid "85341bba-c48e-402e-abc3-ee905288ca08")
 				(effects
@@ -12469,11 +12469,11 @@
 			(layer "User.1")
 			(uuid "8952a851-3c1f-4fb3-b082-7b97ada3720c")
 			(pts
-				(xy 30.988 379.857) (xy 131.318 379.857)
+				(xy 65.024 392.176) (xy 165.354 392.176)
 			)
 			(height -6.985)
 			(gr_text "100.3300 mm"
-				(at 81.153 371.722 0)
+				(at 115.189 384.041 0)
 				(layer "User.1")
 				(uuid "8952a851-3c1f-4fb3-b082-7b97ada3720c")
 				(effects
@@ -12502,11 +12502,11 @@
 			(layer "User.1")
 			(uuid "b1caef35-dab9-4e87-b3fb-d7b034eaa6c3")
 			(pts
-				(xy 52.5526 391.186846) (xy 59.563 391.186846)
+				(xy 86.5886 403.505846) (xy 93.599 403.505846)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 56.0578 388.0288 0)
+				(at 90.0938 400.3478 0)
 				(layer "User.1")
 				(uuid "b1caef35-dab9-4e87-b3fb-d7b034eaa6c3")
 				(effects
@@ -12535,11 +12535,11 @@
 			(layer "User.1")
 			(uuid "e9a56af9-aa76-4e22-9108-9cbeea6d2bfc")
 			(pts
-				(xy 102.3874 390.831246) (xy 109.3978 390.831246)
+				(xy 136.4234 403.150246) (xy 143.4338 403.150246)
 			)
 			(height -2.008046)
 			(gr_text "7.0104 mm"
-				(at 105.8926 387.6732 0)
+				(at 139.9286 399.9922 0)
 				(layer "User.1")
 				(uuid "e9a56af9-aa76-4e22-9108-9cbeea6d2bfc")
 				(effects
@@ -12606,7 +12606,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "a38487fb-f6dd-4e86-805f-d4fa61cbbfe3")
-		(at 56.515 276.86)
+		(at 62.611 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J9"
@@ -12739,11 +12739,11 @@
 			(layer "User.1")
 			(uuid "bb6c62d6-32bc-437d-859a-0201c4887e99")
 			(pts
-				(xy 53.467 247.015) (xy 59.563 247.015)
+				(xy 59.563 256.9845) (xy 65.659 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 56.515 233.729355 0)
+				(at 62.611 243.698855 0)
 				(layer "User.1")
 				(uuid "bb6c62d6-32bc-437d-859a-0201c4887e99")
 				(effects
@@ -12800,7 +12800,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a6adcfe9-15fa-459c-80b8-86f0ef6dea9c")
-		(at 39.37 450.596)
+		(at 42.164 478.409)
 		(descr "Terminal Block Phoenix MPT-0,5-4-2.54, 4 pins, pitch 2.54mm, size 10.6x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MPT-0,5-4-2.54 pitch 2.54mm size 10.6x6.2mm^2 drill 1.1mm pad 2.2mm")
 		(property "Reference" "J20"
@@ -13244,7 +13244,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "a9763393-af4b-4568-9103-518849b30f75")
-		(at 156.337 276.86)
+		(at 162.433 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J16"
@@ -13377,11 +13377,11 @@
 			(layer "User.1")
 			(uuid "c2982d95-b64f-4a5a-9118-6868d71c3507")
 			(pts
-				(xy 153.289 247.015) (xy 159.385 247.015)
+				(xy 159.385 256.9845) (xy 165.481 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 156.337 233.729355 0)
+				(at 162.433 243.698855 0)
 				(layer "User.1")
 				(uuid "c2982d95-b64f-4a5a-9118-6868d71c3507")
 				(effects
@@ -13438,7 +13438,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "b3e9d585-3e50-4ef7-b7ed-933267a0e180")
-		(at 143.891 276.86)
+		(at 149.987 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J10"
@@ -13571,11 +13571,11 @@
 			(layer "User.1")
 			(uuid "0ed7db76-8ff4-4b0a-8f4b-670030399a99")
 			(pts
-				(xy 140.843 247.015) (xy 146.939 247.015)
+				(xy 146.939 256.9845) (xy 153.035 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 143.891 233.729355 0)
+				(at 149.987 243.698855 0)
 				(layer "User.1")
 				(uuid "0ed7db76-8ff4-4b0a-8f4b-670030399a99")
 				(effects
@@ -13632,7 +13632,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "b55a5249-0405-42b1-931d-c863147db11d")
-		(at 94.615 398.018)
+		(at 128.651 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J29"
@@ -13765,11 +13765,11 @@
 			(layer "User.1")
 			(uuid "daa689a2-1e2e-4a86-a47b-ebf16b0e54ad")
 			(pts
-				(xy 91.567 368.173) (xy 97.663 368.173)
+				(xy 125.603 380.492) (xy 131.699 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 94.615 354.887355 0)
+				(at 128.651 367.206355 0)
 				(layer "User.1")
 				(uuid "daa689a2-1e2e-4a86-a47b-ebf16b0e54ad")
 				(effects
@@ -13826,7 +13826,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "b7e4abf8-53c4-4a1f-9e31-c7cf7b7eea19")
-		(at 81.915 398.018)
+		(at 115.951 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J28"
@@ -13959,11 +13959,11 @@
 			(layer "User.1")
 			(uuid "680c9c30-a2d2-4347-8c66-396bd17a301b")
 			(pts
-				(xy 78.867 368.173) (xy 84.963 368.173)
+				(xy 112.903 380.492) (xy 118.999 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 81.915 354.887355 0)
+				(at 115.951 367.206355 0)
 				(layer "User.1")
 				(uuid "680c9c30-a2d2-4347-8c66-396bd17a301b")
 				(effects
@@ -14020,7 +14020,7 @@
 	(footprint "000-industrial:keyswitch-3-way-168-2550"
 		(layer "F.Cu")
 		(uuid "bd149550-26f5-49df-9ddb-b35f123ed551")
-		(at 203.835 333.248)
+		(at 321.056 320.167)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "SW3"
@@ -14252,11 +14252,11 @@
 			(layer "User.1")
 			(uuid "62fdaec4-6a20-4df7-8d19-96c7792339d4")
 			(pts
-				(xy 188.595 312.293) (xy 188.595 354.203)
+				(xy 305.816 299.212) (xy 305.816 341.122)
 			)
 			(height 14.605)
 			(gr_text "41.9100 mm"
-				(at 172.84 333.248 90)
+				(at 290.061 320.167 90)
 				(layer "User.1")
 				(uuid "62fdaec4-6a20-4df7-8d19-96c7792339d4")
 				(effects
@@ -14285,11 +14285,11 @@
 			(layer "User.1")
 			(uuid "90e87588-305d-46f9-8767-bdfafa5c2b52")
 			(pts
-				(xy 188.595 312.293) (xy 219.075 312.293)
+				(xy 305.816 299.212) (xy 336.296 299.212)
 			)
 			(height -5.08)
 			(gr_text "30.4800 mm"
-				(at 203.835 306.063 0)
+				(at 321.056 292.982 0)
 				(layer "User.1")
 				(uuid "90e87588-305d-46f9-8767-bdfafa5c2b52")
 				(effects
@@ -14318,11 +14318,11 @@
 			(layer "User.1")
 			(uuid "9de6102b-1278-49e9-9f64-e4584bbb9327")
 			(pts
-				(xy 189.484 333.248) (xy 218.313 333.248)
+				(xy 306.705 320.167) (xy 335.534 320.167)
 			)
 			(height 0)
 			(gr_text "28.8290 mm"
-				(at 203.8985 332.098 0)
+				(at 321.1195 319.017 0)
 				(layer "User.1")
 				(uuid "9de6102b-1278-49e9-9f64-e4584bbb9327")
 				(effects
@@ -14427,7 +14427,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "c626c21e-3377-43d2-8f18-6b00f7cf0afa")
-		(at 62.738 276.86)
+		(at 68.834 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J5"
@@ -14560,11 +14560,11 @@
 			(layer "User.1")
 			(uuid "d6bce4ea-50a0-435f-bba4-5f633f1a2fa3")
 			(pts
-				(xy 59.69 247.015) (xy 65.786 247.015)
+				(xy 65.786 256.9845) (xy 71.882 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 62.738 233.729355 0)
+				(at 68.834 243.698855 0)
 				(layer "User.1")
 				(uuid "d6bce4ea-50a0-435f-bba4-5f633f1a2fa3")
 				(effects
@@ -14621,7 +14621,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "c8165aac-0809-4a85-a304-1baf9168d070")
-		(at 168.91 276.86)
+		(at 175.006 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J30"
@@ -14767,11 +14767,11 @@
 			(layer "User.1")
 			(uuid "77a00393-6e83-4623-acb7-1a52ded14c20")
 			(pts
-				(xy 165.862 247.015) (xy 171.958 247.015)
+				(xy 171.958 256.9845) (xy 178.054 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 168.91 233.729355 0)
+				(at 175.006 243.698855 0)
 				(layer "User.1")
 				(uuid "77a00393-6e83-4623-acb7-1a52ded14c20")
 				(effects
@@ -14828,7 +14828,7 @@
 	(footprint "000-industrial:relay-DPDT-finder-623-7157"
 		(layer "F.Cu")
 		(uuid "c82b320c-a5e4-470a-9e5b-f02231a02337")
-		(at 249.555 256.8575)
+		(at 253.365 266.446)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "K5"
@@ -15039,11 +15039,11 @@
 			(layer "User.1")
 			(uuid "6c450785-5d9b-448a-ae0d-99820ac9c1be")
 			(pts
-				(xy 241.935 324.8025) (xy 241.935 235.2675)
+				(xy 245.745 334.391) (xy 245.745 244.856)
 			)
 			(height -12.135645)
 			(gr_text "89.5350 mm"
-				(at 228.649355 280.035 90)
+				(at 232.459355 289.6235 90)
 				(layer "User.1")
 				(uuid "6c450785-5d9b-448a-ae0d-99820ac9c1be")
 				(effects
@@ -15072,11 +15072,11 @@
 			(layer "User.1")
 			(uuid "8da996bb-65cc-4c8c-8bc1-dbdfb99568a9")
 			(pts
-				(xy 241.935 235.338145) (xy 257.81 235.338145)
+				(xy 245.745 244.926645) (xy 261.62 244.926645)
 			)
 			(height -12.135645)
 			(gr_text "15.8750 mm"
-				(at 249.8725 222.0525 0)
+				(at 253.6825 231.641 0)
 				(layer "User.1")
 				(uuid "8da996bb-65cc-4c8c-8bc1-dbdfb99568a9")
 				(effects
@@ -15659,7 +15659,7 @@
 	(footprint "000-industrial:led-panel-mount-indicator"
 		(layer "F.Cu")
 		(uuid "d2d73c2f-55a5-4ab6-9c27-815cfbb4db12")
-		(at 170.18 435.864)
+		(at 223.647 430.657)
 		(descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
 		(tags "LED diameter 5.0mm 2 pins")
 		(property "Reference" "D5"
@@ -15971,7 +15971,7 @@
 			(uuid "d1239b62-a6d4-4377-9098-587e1f0a5c26")
 		)
 		(fp_text user "A"
-			(at 2.159 -0.3175 0)
+			(at -6.985 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "613feb0a-00e3-4496-85a2-072a544c3a46")
@@ -16010,11 +16010,11 @@
 			(layer "User.1")
 			(uuid "a3fe3259-9b6a-4486-b21e-ab0fafa25cea")
 			(pts
-				(xy 163.576 436.499) (xy 179.705 436.499)
+				(xy 217.043 431.292) (xy 233.172 431.292)
 			)
 			(height -21.59)
 			(gr_text "16.1290 mm"
-				(at 171.6405 413.759 0)
+				(at 225.1075 408.552 0)
 				(layer "User.1")
 				(uuid "a3fe3259-9b6a-4486-b21e-ab0fafa25cea")
 				(effects
@@ -16075,7 +16075,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "d411ad8c-e4d4-4f7f-8350-07f937779fe7")
-		(at 175.133 276.86)
+		(at 181.229 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J31"
@@ -16208,11 +16208,11 @@
 			(layer "User.1")
 			(uuid "aec16220-beef-487e-b5ca-9a5be4f0c884")
 			(pts
-				(xy 172.085 247.015) (xy 178.181 247.015)
+				(xy 178.181 256.9845) (xy 184.277 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 175.133 233.729355 0)
+				(at 181.229 243.698855 0)
 				(layer "User.1")
 				(uuid "aec16220-beef-487e-b5ca-9a5be4f0c884")
 				(effects
@@ -16269,7 +16269,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "d5047aa3-fa94-4b33-9598-ce0e3dc9667c")
-		(at 68.961 276.86)
+		(at 75.057 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J3"
@@ -16402,11 +16402,11 @@
 			(layer "User.1")
 			(uuid "29c00a0c-9fe0-4c32-bf48-23d764bf3863")
 			(pts
-				(xy 65.913 247.015) (xy 72.009 247.015)
+				(xy 72.009 256.9845) (xy 78.105 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 68.961 233.729355 0)
+				(at 75.057 243.698855 0)
 				(layer "User.1")
 				(uuid "29c00a0c-9fe0-4c32-bf48-23d764bf3863")
 				(effects
@@ -16463,7 +16463,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "d562c0d1-dd77-47ca-b173-3b080217ef4b")
-		(at 112.903 276.86)
+		(at 118.999 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J14"
@@ -16596,11 +16596,11 @@
 			(layer "User.1")
 			(uuid "584dc4dd-eeca-414f-8f31-1f2a61234660")
 			(pts
-				(xy 109.855 247.015) (xy 115.951 247.015)
+				(xy 115.951 256.9845) (xy 122.047 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 112.903 233.729355 0)
+				(at 118.999 243.698855 0)
 				(layer "User.1")
 				(uuid "584dc4dd-eeca-414f-8f31-1f2a61234660")
 				(effects
@@ -16657,7 +16657,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "d8b71216-883e-47fa-ba3c-42ca11fa3c97")
-		(at 162.56 276.86)
+		(at 168.656 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J2"
@@ -16790,11 +16790,11 @@
 			(layer "User.1")
 			(uuid "c2dbf578-ef8d-40d0-918f-c595b33e5148")
 			(pts
-				(xy 159.512 247.015) (xy 165.608 247.015)
+				(xy 165.608 256.9845) (xy 171.704 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 162.56 233.729355 0)
+				(at 168.656 243.698855 0)
 				(layer "User.1")
 				(uuid "c2dbf578-ef8d-40d0-918f-c595b33e5148")
 				(effects
@@ -16851,7 +16851,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "d96b7dc0-be11-4170-839a-7b6b31393e6e")
-		(at 181.356 276.86)
+		(at 187.452 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J32"
@@ -16984,11 +16984,11 @@
 			(layer "User.1")
 			(uuid "dabcfb6d-db1f-422d-bddb-0c9ddaee073f")
 			(pts
-				(xy 178.308 247.015) (xy 184.404 247.015)
+				(xy 184.404 256.9845) (xy 190.5 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 181.356 233.729355 0)
+				(at 187.452 243.698855 0)
 				(layer "User.1")
 				(uuid "dabcfb6d-db1f-422d-bddb-0c9ddaee073f")
 				(effects
@@ -17350,7 +17350,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "dd966102-d4f6-4048-94e6-667974cf1750")
-		(at 131.572 276.86)
+		(at 137.668 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J4"
@@ -17483,11 +17483,11 @@
 			(layer "User.1")
 			(uuid "0ecc347e-d103-410a-a311-8478c0b3d73f")
 			(pts
-				(xy 128.524 247.015) (xy 134.62 247.015)
+				(xy 134.62 256.9845) (xy 140.716 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 131.572 233.729355 0)
+				(at 137.668 243.698855 0)
 				(layer "User.1")
 				(uuid "0ecc347e-d103-410a-a311-8478c0b3d73f")
 				(effects
@@ -17544,7 +17544,7 @@
 	(footprint "000-industrial:KSIM380D16-L-solid-state-relay"
 		(layer "F.Cu")
 		(uuid "de622dbc-2487-48b4-b764-6bb3301fba86")
-		(at 233.7205 371.348)
+		(at 297.0935 379.603)
 		(descr "4-Lead Plastic Small Outline (SO), see https://docs.broadcom.com/docs/AV02-0173EN")
 		(tags "SO SOIC 2.54")
 		(property "Reference" "U2"
@@ -17748,11 +17748,11 @@
 			(layer "User.1")
 			(uuid "2fd73a79-19a0-462d-9419-dbe2f97f5c74")
 			(pts
-				(xy 219.7505 363.093) (xy 248.008 363.093)
+				(xy 283.1235 371.348) (xy 311.381 371.348)
 			)
 			(height -4.445)
 			(gr_text "28.2575 mm"
-				(at 233.87925 357.498 0)
+				(at 297.25225 365.753 0)
 				(layer "User.1")
 				(uuid "2fd73a79-19a0-462d-9419-dbe2f97f5c74")
 				(effects
@@ -17781,11 +17781,11 @@
 			(layer "User.1")
 			(uuid "86387f79-0a74-4aa0-968a-5eb019075974")
 			(pts
-				(xy 233.7205 366.268) (xy 233.7205 397.383)
+				(xy 297.0935 374.523) (xy 297.0935 405.638)
 			)
 			(height 0)
 			(gr_text "31.1150 mm"
-				(at 232.5705 381.8255 90)
+				(at 295.9435 390.0805 90)
 				(layer "User.1")
 				(uuid "86387f79-0a74-4aa0-968a-5eb019075974")
 				(effects
@@ -17814,11 +17814,11 @@
 			(layer "User.1")
 			(uuid "f69dcc5a-36f5-477c-94a2-77703c18eeb9")
 			(pts
-				(xy 218.4805 363.093) (xy 218.4805 401.193)
+				(xy 281.8535 371.348) (xy 281.8535 409.448)
 			)
 			(height 0)
 			(gr_text "38.1000 mm"
-				(at 217.3305 382.143 90)
+				(at 280.7035 390.398 90)
 				(layer "User.1")
 				(uuid "f69dcc5a-36f5-477c-94a2-77703c18eeb9")
 				(effects
@@ -17911,7 +17911,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "dfb9428b-b849-48f2-b13a-d6f47b294365")
-		(at 87.63 276.86)
+		(at 93.726 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J1"
@@ -18057,11 +18057,11 @@
 			(layer "User.1")
 			(uuid "4b99512c-e297-423a-be5c-b6826c932aff")
 			(pts
-				(xy 84.582 247.015) (xy 90.678 247.015)
+				(xy 90.678 256.9845) (xy 96.774 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 87.63 233.729355 0)
+				(at 93.726 243.698855 0)
 				(layer "User.1")
 				(uuid "4b99512c-e297-423a-be5c-b6826c932aff")
 				(effects
@@ -18118,7 +18118,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "e3de4af0-21e4-4dff-ab68-4b76e079e3e1")
-		(at 100.838 398.018)
+		(at 134.874 410.337)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J23"
@@ -18251,11 +18251,11 @@
 			(layer "User.1")
 			(uuid "b49b27d3-65d6-44f8-8f5c-52ca1e13e742")
 			(pts
-				(xy 97.79 368.173) (xy 103.886 368.173)
+				(xy 131.826 380.492) (xy 137.922 380.492)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 100.838 354.887355 0)
+				(at 134.874 367.206355 0)
 				(layer "User.1")
 				(uuid "b49b27d3-65d6-44f8-8f5c-52ca1e13e742")
 				(effects
@@ -18312,7 +18312,7 @@
 	(footprint "000-industrial:2-pin-terminal-block"
 		(layer "F.Cu")
 		(uuid "eb112b00-3d17-4967-822d-815bcc57e2ff")
-		(at 93.853 276.86)
+		(at 99.949 286.8295)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "J15"
@@ -18445,11 +18445,11 @@
 			(layer "User.1")
 			(uuid "1fcc3f7b-2b70-4429-8d2b-985311d8ce8d")
 			(pts
-				(xy 90.805 247.015) (xy 96.901 247.015)
+				(xy 96.901 256.9845) (xy 102.997 256.9845)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 93.853 233.729355 0)
+				(at 99.949 243.698855 0)
 				(layer "User.1")
 				(uuid "1fcc3f7b-2b70-4429-8d2b-985311d8ce8d")
 				(effects
@@ -18506,7 +18506,7 @@
 	(footprint "000-industrial:relay-SPDT-888-6798"
 		(layer "F.Cu")
 		(uuid "ee87eb19-1b1f-42c3-be3f-70f9c94319c7")
-		(at 267.843 237.744)
+		(at 271.653 247.3325)
 		(descr "Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf")
 		(tags "Omron G6K-2G-Y relay")
 		(property "Reference" "K2"
@@ -18691,11 +18691,11 @@
 			(layer "User.1")
 			(uuid "01bc0ebd-9386-47ae-887a-23dc40306706")
 			(pts
-				(xy 264.795 228.219) (xy 270.891 228.219)
+				(xy 268.605 237.8075) (xy 274.701 237.8075)
 			)
 			(height -12.135645)
 			(gr_text "6.0960 mm"
-				(at 267.843 214.933355 0)
+				(at 271.653 224.521855 0)
 				(layer "User.1")
 				(uuid "01bc0ebd-9386-47ae-887a-23dc40306706")
 				(effects
@@ -18780,8 +18780,8 @@
 		)
 	)
 	(gr_line
-		(start 110.1725 367.792)
-		(end 110.1725 425.45)
+		(start 144.2085 380.111)
+		(end 144.2085 437.769)
 		(stroke
 			(width 0.6)
 			(type default)
@@ -18790,8 +18790,8 @@
 		(uuid "3eec431e-6277-49f2-ab57-0bde970a50c4")
 	)
 	(gr_line
-		(start 97.7265 367.792)
-		(end 97.7265 425.45)
+		(start 131.7625 380.111)
+		(end 131.7625 437.769)
 		(stroke
 			(width 0.6)
 			(type default)
@@ -18800,8 +18800,8 @@
 		(uuid "6216d431-2902-4270-b247-31ef22f3c404")
 	)
 	(gr_line
-		(start 103.1875 247.015)
-		(end 103.1875 304.673)
+		(start 109.2835 256.9845)
+		(end 109.2835 314.6425)
 		(stroke
 			(width 0.6)
 			(type default)
@@ -18810,8 +18810,8 @@
 		(uuid "93eed852-e09b-464d-9f6d-a933f31bdb89")
 	)
 	(gr_line
-		(start 85.0265 368.173)
-		(end 85.0265 425.831)
+		(start 119.0625 380.492)
+		(end 119.0625 438.15)
 		(stroke
 			(width 0.6)
 			(type default)
@@ -18820,8 +18820,8 @@
 		(uuid "9d247cf1-c0ba-43d8-bb9a-2ad9c40e94a5")
 	)
 	(gr_line
-		(start 122.8725 367.792)
-		(end 122.8725 425.45)
+		(start 156.9085 380.111)
+		(end 156.9085 437.769)
 		(stroke
 			(width 0.6)
 			(type default)
@@ -18830,8 +18830,8 @@
 		(uuid "f4224cb8-a14c-47b3-84f8-e4c81748cf7c")
 	)
 	(gr_line
-		(start 165.6715 247.015)
-		(end 165.6715 304.673)
+		(start 171.7675 256.9845)
+		(end 171.7675 314.6425)
 		(stroke
 			(width 0.6)
 			(type default)
@@ -18841,7 +18841,7 @@
 	)
 	(gr_rect
 		(start 12.065 12.065)
-		(end 279.4 457.835)
+		(end 361.696 476.758)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -18851,7 +18851,7 @@
 		(uuid "bcded7f2-c2c5-4716-ab15-8cf6c1991d7f")
 	)
 	(gr_text "L2"
-		(at 114.808 366.776 0)
+		(at 148.844 379.095 0)
 		(layer "F.SilkS")
 		(uuid "02961639-b6c1-4cc5-8697-7828968a305e")
 		(effects
@@ -18863,7 +18863,7 @@
 		)
 	)
 	(gr_text "PE"
-		(at 89.281 366.903 0)
+		(at 123.317 379.222 0)
 		(layer "F.SilkS")
 		(uuid "05f2fab0-4df3-4210-9217-275ec044379a")
 		(effects
@@ -18875,7 +18875,7 @@
 		)
 	)
 	(gr_text "Solvent Level"
-		(at 161.671 373.634 0)
+		(at 217.297 397.383 0)
 		(layer "F.SilkS")
 		(uuid "361bb4f3-bdb5-41d0-accb-c06e544e93c8")
 		(effects
@@ -18887,7 +18887,7 @@
 		)
 	)
 	(gr_text "+24v BUS"
-		(at 66.421 244.348 0)
+		(at 72.517 254.3175 0)
 		(layer "F.SilkS")
 		(uuid "46443da5-3f1c-4736-90e7-80f68055a447")
 		(effects
@@ -18899,7 +18899,7 @@
 		)
 	)
 	(gr_text "+10v BUS"
-		(at 168.529 243.84 0)
+		(at 174.625 253.8095 0)
 		(layer "F.SilkS")
 		(uuid "685659d8-805c-4af5-8dcc-a43cf6babfb3")
 		(effects
@@ -18911,7 +18911,7 @@
 		)
 	)
 	(gr_text "Solvent Mode"
-		(at 257.175 331.851 0)
+		(at 329.311 258.953 0)
 		(layer "F.SilkS")
 		(uuid "692a4bc1-0ce4-4041-b4ed-d2b97afd4eaa")
 		(effects
@@ -18922,8 +18922,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "L4"
-		(at 127.254 367.03 0)
+	(gr_text "L3"
+		(at 161.29 379.349 0)
 		(layer "F.SilkS")
 		(uuid "a872ff33-fd6f-455d-8a0b-03c096a9ae9d")
 		(effects
@@ -18935,7 +18935,7 @@
 		)
 	)
 	(gr_text "GND BUS"
-		(at 130.81 243.713 0)
+		(at 136.906 253.6825 0)
 		(layer "F.SilkS")
 		(uuid "af688e3c-66f3-4edf-b213-f74c25243e33")
 		(effects
@@ -18947,7 +18947,7 @@
 		)
 	)
 	(gr_text "N"
-		(at 74.803 367.03 0)
+		(at 108.839 379.349 0)
 		(layer "F.SilkS")
 		(uuid "aff5b0a5-edf5-4c45-b64c-9bebd6948e2f")
 		(effects
@@ -18959,7 +18959,7 @@
 		)
 	)
 	(gr_text "3 phase to inside\nsignal to outside"
-		(at 206.629 408.305 0)
+		(at 270.002 416.56 0)
 		(layer "F.SilkS")
 		(uuid "bbb93ece-e4e4-4933-998a-967c3664353e")
 		(effects
@@ -18983,7 +18983,7 @@
 		)
 	)
 	(gr_text "L1"
-		(at 102.108 366.776 0)
+		(at 136.144 379.095 0)
 		(layer "F.SilkS")
 		(uuid "d8052d1a-e001-49e5-925e-90ebd8e9f1d2")
 		(effects
@@ -18995,7 +18995,7 @@
 		)
 	)
 	(gr_text "Mode Selection"
-		(at 188.341 299.593 0)
+		(at 192.151 309.1815 0)
 		(layer "F.SilkS")
 		(uuid "e39de4b1-fd83-4095-b5b7-eafaf8933b1c")
 		(effects
@@ -19007,7 +19007,7 @@
 		)
 	)
 	(gr_text "Water Level"
-		(at 163.703 425.704 0)
+		(at 216.789 420.878 0)
 		(layer "F.SilkS")
 		(uuid "e8911276-1da8-4d65-a316-6bcb1fe94894")
 		(effects
@@ -19019,7 +19019,7 @@
 		)
 	)
 	(gr_text "Water Mode"
-		(at 233.934 331.978 0)
+		(at 329.184 230.378 0)
 		(layer "F.SilkS")
 		(uuid "e8a0d092-73a1-4f64-a5ca-77ce6a8f67cc")
 		(effects
@@ -19032,20 +19032,53 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "F.Fab")
+		(layer "F.SilkS")
 		(uuid "78e47cdd-201d-4b95-8e60-018ae0cb2467")
 		(pts
-			(xy 12.955466 12.065) (xy 12.955466 457.835)
+			(xy 124.080466 7.1755) (xy 124.080466 471.3605)
 		)
 		(height 76.963466)
-		(gr_text "445.7700 mm"
-			(at -65.158 234.95 90)
-			(layer "F.Fab")
+		(gr_text "464.1850 mm"
+			(at 49.059649 191.4525 90)
+			(layer "F.SilkS")
 			(uuid "78e47cdd-201d-4b95-8e60-018ae0cb2467")
 			(effects
 				(font
+					(size 2 2)
+					(thickness 0.3)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 2)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.SilkS")
+		(uuid "9a8816bf-0a60-4856-9aca-bcb288e76934")
+		(pts
+			(xy 213.233 164.592) (xy 213.233 12.573)
+		)
+		(height -271.907)
+		(gr_text "152.0190 mm"
+			(at -59.774 88.5825 90)
+			(layer "F.SilkS")
+			(uuid "9a8816bf-0a60-4856-9aca-bcb288e76934")
+			(effects
+				(font
 					(size 1 1)
-					(thickness 0.15)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -19065,20 +19098,55 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "F.Fab")
+		(locked yes)
+		(layer "F.SilkS")
 		(uuid "deb9ec06-ff92-44e6-bac9-5ca23449c58c")
 		(pts
-			(xy 12.065 12.065) (xy 279.273 12.065)
+			(xy 12.065 477.266) (xy 361.823 477.266)
 		)
 		(height -34.925)
-		(gr_text "267.2080 mm"
-			(at 145.669 -24.01 0)
-			(layer "F.Fab")
+		(gr_text "349.7580 mm"
+			(locked yes)
+			(at 151.892 441.191 0)
+			(layer "F.SilkS")
 			(uuid "deb9ec06-ff92-44e6-bac9-5ca23449c58c")
 			(effects
 				(font
+					(size 2 2)
+					(thickness 0.3)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 2)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.SilkS")
+		(uuid "eaf62986-3534-4b5d-a4ad-55bb56d6f978")
+		(pts
+			(xy 255.778 146.812) (xy 255.778 12.319)
+		)
+		(height -302.26)
+		(gr_text "134.4930 mm"
+			(at -47.582 79.5655 90)
+			(layer "F.SilkS")
+			(uuid "eaf62986-3534-4b5d-a4ad-55bb56d6f978")
+			(effects
+				(font
 					(size 1 1)
-					(thickness 0.15)
+					(thickness 0.1)
 				)
 			)
 		)
