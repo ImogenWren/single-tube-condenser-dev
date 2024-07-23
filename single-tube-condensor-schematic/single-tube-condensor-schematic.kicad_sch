@@ -7687,16 +7687,8 @@
 		(uuid "ff039d63-9126-4dd1-9a6d-4e180c6e319a")
 	)
 	(no_connect
-		(at 190.5 77.47)
-		(uuid "d4ba652e-7aaa-4ad1-b110-f7771a1f589f")
-	)
-	(no_connect
 		(at 81.28 261.62)
 		(uuid "f88cc24c-9adb-4cf5-bf4f-f3d0765ef2ad")
-	)
-	(no_connect
-		(at 190.5 72.39)
-		(uuid "ff6259af-e818-462b-96b2-10639453d5fa")
 	)
 	(bus_entry
 		(at 375.92 93.98)
@@ -8290,6 +8282,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 148.59) (xy 259.08 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23b59d2c-28ef-456c-bd73-61751d574770")
+	)
+	(wire
+		(pts
 			(xy 25.4 36.83) (xy 25.4 44.45)
 		)
 		(stroke
@@ -8760,7 +8762,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 71.12) (xy 287.02 69.85)
+			(xy 257.81 80.01) (xy 257.81 81.28)
 		)
 		(stroke
 			(width 0)
@@ -8797,16 +8799,6 @@
 			(type default)
 		)
 		(uuid "59354784-3f8c-4cdd-97ab-a0954dbb0bfb")
-	)
-	(wire
-		(pts
-			(xy 260.35 149.86) (xy 259.08 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "594accd8-a884-4b2c-a284-e075c62fb82a")
 	)
 	(wire
 		(pts
@@ -8907,6 +8899,16 @@
 			(type default)
 		)
 		(uuid "6512d7f4-d663-43c2-b91c-4200401be7a9")
+	)
+	(wire
+		(pts
+			(xy 283.21 69.85) (xy 279.4 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66a195e1-c473-4775-af0f-75e71876eff9")
 	)
 	(wire
 		(pts
@@ -9080,17 +9082,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 134.62) (xy 281.94 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "784ee8ea-c8ff-45f2-959f-49dffcc7d2b7")
-	)
-	(wire
-		(pts
-			(xy 260.35 151.13) (xy 260.35 149.86)
+			(xy 281.94 137.16) (xy 281.94 135.89)
 		)
 		(stroke
 			(width 0)
@@ -9227,16 +9219,6 @@
 			(type default)
 		)
 		(uuid "86014a26-45af-49a8-9709-b8f87e138573")
-	)
-	(wire
-		(pts
-			(xy 287.02 69.85) (xy 279.4 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87a90d3f-6bf9-47bd-a29f-53456f192c0a")
 	)
 	(wire
 		(pts
@@ -9687,6 +9669,16 @@
 			(type default)
 		)
 		(uuid "afe6a2ae-79f6-4909-9a49-e640efcc8d77")
+	)
+	(wire
+		(pts
+			(xy 283.21 69.85) (xy 283.21 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1352ddf-a8f7-4139-a511-c0a46cfb8a60")
 	)
 	(wire
 		(pts
@@ -10187,16 +10179,6 @@
 			(type default)
 		)
 		(uuid "eca06388-7035-4217-b2e8-a5888633ca09")
-	)
-	(wire
-		(pts
-			(xy 257.81 86.36) (xy 257.81 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eea092a5-7e9d-4ba6-be94-79d71e346acc")
 	)
 	(wire
 		(pts
@@ -12616,7 +12598,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 281.94 134.62 0)
+		(at 259.08 148.59 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12625,7 +12607,7 @@
 		(dnp no)
 		(uuid "3245b582-3331-4427-8e0f-2c2010b9374c")
 		(property "Reference" "#PWR033"
-			(at 281.94 138.43 0)
+			(at 259.08 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12634,7 +12616,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 282.194 130.556 0)
+			(at 262.382 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12642,7 +12624,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 281.94 134.62 0)
+			(at 259.08 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12651,7 +12633,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 134.62 0)
+			(at 259.08 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12660,7 +12642,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 281.94 134.62 0)
+			(at 259.08 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12916,7 +12898,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 287.02 71.12 180)
+		(at 257.81 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12924,7 +12906,7 @@
 		(dnp no)
 		(uuid "3bd20e59-c273-4049-8548-1723caa5bbc2")
 		(property "Reference" "#PWR035"
-			(at 287.02 67.31 0)
+			(at 257.81 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12933,7 +12915,7 @@
 			)
 		)
 		(property "Value" "+24V"
-			(at 287.274 75.184 0)
+			(at 260.858 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12941,7 +12923,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 287.02 71.12 0)
+			(at 257.81 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12950,7 +12932,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 287.02 71.12 0)
+			(at 257.81 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12959,7 +12941,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 287.02 71.12 0)
+			(at 257.81 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13664,7 +13646,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 260.35 151.13 0)
+		(at 281.94 137.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13674,7 +13656,7 @@
 		(fields_autoplaced yes)
 		(uuid "56e5e2fd-ff3f-4b97-988c-b8e8e1b31f20")
 		(property "Reference" "#PWR041"
-			(at 260.35 157.48 0)
+			(at 281.94 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13683,7 +13665,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 260.35 156.21 0)
+			(at 281.94 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13691,7 +13673,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 260.35 151.13 0)
+			(at 281.94 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13700,7 +13682,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 151.13 0)
+			(at 281.94 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13709,7 +13691,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 260.35 151.13 0)
+			(at 281.94 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14215,6 +14197,7 @@
 	(symbol
 		(lib_id "004_Industrial_Automation_ADAM:LED-panel-blue")
 		(at 250.19 147.32 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14222,7 +14205,7 @@
 		(dnp no)
 		(uuid "689d4175-17ee-41c7-9564-e487721980cc")
 		(property "Reference" "D5"
-			(at 256.794 139.446 0)
+			(at 244.602 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14230,7 +14213,7 @@
 			)
 		)
 		(property "Value" "H2O Level Indicator"
-			(at 251.206 141.224 0)
+			(at 248.412 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14256,7 +14239,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 264.414 148.336 0)
+			(at 264.414 146.304 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18081,7 +18064,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 257.81 86.36 0)
+		(at 283.21 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18090,7 +18073,7 @@
 		(fields_autoplaced yes)
 		(uuid "e1a4c97c-f8f1-4abd-9660-1165f2f10a52")
 		(property "Reference" "#PWR042"
-			(at 257.81 92.71 0)
+			(at 283.21 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18099,7 +18082,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 257.81 91.44 0)
+			(at 283.21 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18107,7 +18090,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 86.36 0)
+			(at 283.21 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18116,7 +18099,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 86.36 0)
+			(at 283.21 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18125,7 +18108,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 257.81 86.36 0)
+			(at 283.21 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19067,6 +19050,7 @@
 	(symbol
 		(lib_id "004_Industrial_Automation_ADAM:LED-panel-yellow")
 		(at 248.92 78.74 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19074,7 +19058,7 @@
 		(dnp no)
 		(uuid "f73579cd-207d-45dd-b37c-ca776ce7905c")
 		(property "Reference" "D4"
-			(at 257.048 70.104 0)
+			(at 242.062 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19082,7 +19066,7 @@
 			)
 		)
 		(property "Value" "Solvent Level Indicator"
-			(at 248.158 72.136 0)
+			(at 244.094 72.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19090,7 +19074,7 @@
 			)
 		)
 		(property "Footprint" "000-industrial:led-panel-mount-indicator"
-			(at 239.268 81.026 90)
+			(at 239.268 76.454 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19108,7 +19092,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 263.144 79.756 0)
+			(at 263.144 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
